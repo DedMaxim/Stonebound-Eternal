@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:green_log"
+    },
+    {
+      "item": "spectrum:green_wood"
+    },
+    {
+      "item": "spectrum:stripped_green_log"
+    },
+    {
+      "item": "spectrum:stripped_green_wood"
+    }
+  ],
+  "result": {
+    "id": "spectrum:green_fence_gate",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

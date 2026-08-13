@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:black_log"
+    },
+    {
+      "item": "spectrum:black_wood"
+    },
+    {
+      "item": "spectrum:stripped_black_log"
+    },
+    {
+      "item": "spectrum:stripped_black_wood"
+    }
+  ],
+  "result": {
+    "id": "spectrum:black_planks",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

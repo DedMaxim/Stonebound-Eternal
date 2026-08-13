@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "spectrum:weeping_gala_wood"
+  },
+  "result": {
+    "id": "spectrum:stripped_weeping_gala_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

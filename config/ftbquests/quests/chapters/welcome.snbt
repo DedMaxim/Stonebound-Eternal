@@ -1,0 +1,58 @@
+{
+	autofocus_id: "714F8DE881511FCD"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: "2D72A8722D0CF169"
+	icon: {
+		components: {
+			"ftbquests:icon": "stonebound:textures/stonebound_logo.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "1C3D786515DD50A9"
+	images: [{
+		click_action: "open_uri:https://www.stonebound.net/"
+		height: 3.0d
+		id: "523B8A626662F107"
+		image: "stonebound:textures/stonebound_net.png"
+		rotation: 0.0d
+		width: 8.0d
+		x: -0.5d
+		y: -2.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "714F8DE881511FCD"
+		rewards: [
+			{
+				count: 16
+				id: "0071841B3200A096"
+				item: {
+					count: 1
+					id: "supplementaries:candy"
+				}
+				team_reward: false
+				type: "item"
+			}
+			{
+				id: "39DEC5568BB5C0FF"
+				item: {
+					count: 1
+					id: "comforts:sleeping_bag_red"
+				}
+				team_reward: false
+				type: "item"
+			}
+		]
+		shape: "pentagon"
+		size: 2.0d
+		tasks: [{
+			id: "6B6EF438DED769B0"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

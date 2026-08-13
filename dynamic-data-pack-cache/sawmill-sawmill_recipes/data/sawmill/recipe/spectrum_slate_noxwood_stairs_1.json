@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "spectrum:slate_noxwood_planks"
+  },
+  "result": {
+    "id": "spectrum:slate_noxwood_stairs",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

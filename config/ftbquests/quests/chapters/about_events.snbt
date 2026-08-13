@@ -1,0 +1,21 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "about_events"
+	group: "26B8EF2584A68467"
+	id: "4E02C195979248A9"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "120E72B0355F66BA"
+		shape: "gear"
+		size: 1.5d
+		tasks: [{
+			id: "230AC1B3E541AD13"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

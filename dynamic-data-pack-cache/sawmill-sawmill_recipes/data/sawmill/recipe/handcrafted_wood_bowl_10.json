@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:pink_log"
+    },
+    {
+      "item": "spectrum:pink_wood"
+    },
+    {
+      "item": "spectrum:stripped_pink_log"
+    },
+    {
+      "item": "spectrum:stripped_pink_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,967 @@
+{
+	consume_items: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_repeatable_quest: true
+	filename: "stoneexpress"
+	group: "2D72A8722D0CF169"
+	hide_quest_until_deps_complete: true
+	icon: {
+		components: {
+			"ftbquests:icon": "ftbquests:textures/gui/shop.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "2D89E2CCB7F3CCB2"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/entity_icon/silverfish.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "62542DA53E5EA7C2"
+			rewards: [{
+				id: "029F14251AA84E40"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:pest_control": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "600F09092E5E8F47"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:bane_of_arthropods": 5 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+				{
+					id: "23AC2617C7AE45E9"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:fortune": 3 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "4D9EC569AF789F71"
+					item: { count: 1, id: "spectrum:light_gray_pigment" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "minecraft:crying_obsidian"
+			}
+			id: "649477E80340AE5A"
+			rewards: [{
+				id: "2090E589B2F3EE0A"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:razing": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "03F0AF8DFB1D8366"
+					item: { count: 1, id: "spectrum:dragonbone_chunk" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "26B3C722C13BE0A5"
+					item: { count: 1, id: "spectrum:gray_pigment" }
+					type: "item"
+				}
+				{
+					id: "1A8C8F5F7FCFADD6"
+					item: { count: 1, id: "spectrum:bottle_of_ruin" }
+					type: "item"
+				}
+				{
+					id: "45C159B1C997F3FA"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:efficiency": 3 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "minecraft:campfire"
+			}
+			id: "1C25E5317EF9809E"
+			rewards: [{
+				id: "3AF66B3F3F844D59"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:foundry": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "436325E9CCA0976E"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:fire_aspect": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+				{
+					id: "36CC0AB8F8DDDE4B"
+					item: { count: 1, id: "spectrum:stratine_gem" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "53E01A9D42D04EE4"
+					item: { count: 1, id: "spectrum:orange_pigment" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "minecraft:amethyst_cluster"
+			}
+			id: "28C92882764D18AA"
+			rewards: [{
+				id: "059D175F7C552829"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:resonance": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3EF55305C87F1F83"
+					item: { count: 1, id: "spectrum:resonance_shard" }
+					type: "item"
+				}
+				{
+					id: "0339042D6C1A66F1"
+					item: { count: 1, id: "spectrum:paltaeria_gem" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "51241AA1CA28F5F4"
+					item: { count: 1, id: "spectrum:white_pigment" }
+					type: "item"
+				}
+				{
+					id: "478F9782E7FDEEE1"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:silk_touch": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/mob_effect/haste.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "01A3700CB16F7139"
+			rewards: [{
+				id: "30E2D606FE436B57"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:inertia": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "71CF8E1FFB5517A9"
+					item: { count: 1, id: "spectrum:neolith" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "0F9FD328DDDA4E24"
+					item: { count: 1, id: "spectrum:brown_pigment" }
+					type: "item"
+				}
+				{
+					id: "5B1F6B8E8264C805"
+					item: { components: { "minecraft:potion_contents": { potion: "minecraft:swiftness" } }, count: 1, id: "minecraft:potion" }
+					type: "item"
+				}
+				{
+					id: "5EA5BA0E2FCCF4DC"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:efficiency": 3 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "minecraft:bedrock"
+			}
+			id: "46C8B6BE3D45D192"
+			rewards: [{
+				id: "4B4123D10D48F645"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:indestructible": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "16D4D132C0916718"
+					item: { count: 1, id: "spectrum:downstone_fragments" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "19F1A3BBDAB8220F"
+					item: { count: 1, id: "spectrum:blue_pigment" }
+					type: "item"
+				}
+				{
+					id: "4CDEFE979B2819D3"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:mending": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "4F4FCF4A884A85EA"
+					item: { count: 1, id: "createdeco:netherite_coin" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7CEBBB2AEBD38354"
+					item: { count: 1, id: "minecraft:netherite_scrap" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "minecraft:netherite_chestplate"
+			}
+			id: "6A71C3416ED92670"
+			rewards: [{
+				id: "31E3181B27726351"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:steadfast": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "455A28C1CB2F8787"
+					item: { count: 1, id: "spectrum:moonstruck_nectar" }
+					type: "item"
+				}
+				{
+					id: "3CF54A9FF39B9D8A"
+					item: { count: 1, id: "minecraft:nether_star" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "627D6F91B00FCA6A"
+					item: { count: 1, id: "spectrum:blue_pigment" }
+					type: "item"
+				}
+				{
+					id: "096E36DE237C3D06"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:binding_curse": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/mob_effect/speed.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6C173B586E3F967B"
+			rewards: [{
+				id: "1159CE01EEF506EA"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:inexorable": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "66EA74986A285634"
+					item: { count: 1, id: "spectrum:white_pigment" }
+					type: "item"
+				}
+				{
+					id: "1503F1B9D2B7CE0C"
+					item: { count: 1, id: "spectrum:pure_bloodstone" }
+					type: "item"
+				}
+				{
+					id: "1E5CF2D90323AC57"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:swift_sneak": 3 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"sophisticatedcore:number_of_inventory_slots": 18
+					"sophisticatedcore:number_of_upgrade_slots": 1
+				}
+				id: "sophisticatedbackpacks:backpack"
+			}
+			id: "02B6B1CC3329B370"
+			rewards: [{
+				id: "183751FD006B2ADD"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:inventory_insertion": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3B98F13192566BF5"
+					item: { count: 1, id: "minecraft:ender_pearl" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "5BC1BF308C36AE1D"
+					item: { count: 1, id: "spectrum:blue_pigment" }
+					type: "item"
+				}
+				{
+					id: "5382CE868CD0460F"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "create:capacity": 3 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "318D25E236D0153A"
+			rewards: [{
+				id: "0CCCF1504B335587"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:exuberance": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "5C958CE65F62718B"
+					item: { count: 1, id: "create:experience_nugget" }
+					type: "item"
+				}
+				{
+					id: "78302E536F0C9478"
+					item: { count: 1, id: "minecraft:experience_bottle" }
+					type: "item"
+				}
+				{
+					id: "68474B7DA735E179"
+					item: { count: 1, id: "spectrum:raw_azurite" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "30B7EC028198ACE1"
+					item: { count: 1, id: "spectrum:purple_pigment" }
+					type: "item"
+				}
+				{
+					id: "51FFB92CF3EA5024"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:looting": 2 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "spectrum:item/bedrock_sword"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1F4AE0CA68F1DBD7"
+			rewards: [{
+				id: "2EF805694D97C558"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:first_strike": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1D617F14FBA8BE9F"
+					item: { count: 1, id: "minecraft:ghast_tear" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7D5A556C8BC0BA9D"
+					item: { count: 1, id: "spectrum:pink_pigment" }
+					type: "item"
+				}
+				{
+					id: "4DE7347DAB4E7644"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "farmersdelight:backstabbing": 2 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cataclysm:item/blazing_grips"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1673746D9F0B7A95"
+			rewards: [{
+				id: "06D3DBF3F47ADBD0"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:tight_grip": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1AE482645609364E"
+					item: { count: 1, id: "spectrum:neolith" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "07AC463D0BC00D91"
+					item: { count: 1, id: "spectrum:yellow_pigment" }
+					type: "item"
+				}
+				{
+					id: "3C69826521981B54"
+					item: { count: 1, id: "minecraft:netherite_sword" }
+					type: "item"
+				}
+				{
+					id: "59FAE090D563D684"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:sharpness": 5 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "goodending:big_four_leaf_clover"
+			}
+			id: "1300C4A1D5D64414"
+			rewards: [{
+				id: "3247E24196FB6A0F"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:clovers_favor": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "51F4E93024DC356C"
+					item: { count: 1, id: "spectrum:four_leaf_clover" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "46E5713D58F9CC20"
+					item: { count: 1, id: "spectrum:light_blue_pigment" }
+					type: "item"
+				}
+				{
+					id: "1D88E015F532CA41"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:looting": 3 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/mob_effect/strength.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "081F6AE06B2948DA"
+			rewards: [{
+				id: "0C93F0BA9C950BD2"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:improved_critical": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "726C58A4CFA30C49"
+					item: { count: 1, id: "spectrum:black_pigment" }
+					type: "item"
+				}
+				{
+					id: "75308C5F573918A5"
+					item: { count: 1, id: "spectrum:pure_quartz" }
+					type: "item"
+				}
+				{
+					id: "4D678641892E60AE"
+					item: { count: 1, id: "minecraft:flint" }
+					type: "item"
+				}
+				{
+					id: "727594B9F092922C"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:breach": 4 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cataclysm:textures/entity/leviathan/portal/abyss_portal_idle_2.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 2.0d
+			id: "5DF18225E954ABF3"
+			rewards: [{
+				id: "43EA9193ABDD4A09"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:voiding": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "033E83C7A14E3E7F"
+					item: { count: 1, id: "minecraft:chorus_flower" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "4FF319750D47B719"
+					item: { count: 1, id: "spectrum:black_pigment" }
+					type: "item"
+				}
+				{
+					id: "2DC59264DB734669"
+					item: { count: 1, id: "minecraft:ender_pearl" }
+					type: "item"
+				}
+				{
+					id: "59D61A2CB2E23D93"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:vanishing_curse": 1 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "starcatcher:item/treasure"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "7EA3B7AD7C04BC98"
+			rewards: [{
+				id: "708451BDA4DFE6C8"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:treasure_hunter": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "1F1A3A5002D5D80E"
+					item: { count: 1, id: "spectrum:storm_stone" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "1BB59DEA368401FA"
+					item: { count: 1, id: "spectrum:light_blue_pigment" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "564AA1355890D6FA"
+					item: { count: 1, id: "minecraft:wither_skeleton_skull" }
+					type: "item"
+				}
+				{
+					id: "6CCB74AF4FFF20ED"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:luck_of_the_sea": 3 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "irons_lib:textures/gui/sprites/color_picker/color_picker_target.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7F8122ABE5495BD9"
+			rewards: [{
+				id: "36A8F3B396EB8B5B"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:sniping": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "71793C7A8EB53C10"
+					item: { count: 1, id: "minecraft:diamond" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "3129DB016F16C8A3"
+					item: { count: 1, id: "spectrum:green_pigment" }
+					type: "item"
+				}
+				{
+					id: "574C1F2CA1E951B7"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:piercing": 4 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "spectrum:item/bedrock_fishing_rod"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1620BFFDCE7FB142"
+			rewards: [{
+				id: "1488353C363ED9F3"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:big_catch": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "35E72DD6806DCC2F"
+					item: { count: 1, id: "spectrum:mermaids_gem" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "4A004E9E9E15664D"
+					item: { count: 1, id: "spectrum:light_blue_pigment" }
+					type: "item"
+				}
+				{
+					id: "6E0343B477BEA121"
+					item: { count: 1, id: "minecraft:heart_of_the_sea" }
+					type: "item"
+				}
+				{
+					id: "022D7862E89FB68F"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:lure": 3 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/entity_icon/fish/cod.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "78B1C0AB1EDA7309"
+			rewards: [{
+				id: "15B78AC623A0D5EB"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"spectrum:serendipity_reel": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "3CF21FE2C30EE00C"
+					item: { count: 1, id: "spectrum:mermaids_gem" }
+					type: "item"
+				}
+				{
+					id: "35F8A5E99F896746"
+					item: { count: 1, id: "spectrum:bismuth_crystal" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "64CC79A4BC25C554"
+					item: { count: 1, id: "spectrum:light_blue_pigment" }
+					type: "item"
+				}
+				{
+					id: "72F4EAF1FAD0B581"
+					item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:fortune": 3 } } }, count: 1, id: "minecraft:enchanted_book" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 3.5d
+		}
+	]
+}

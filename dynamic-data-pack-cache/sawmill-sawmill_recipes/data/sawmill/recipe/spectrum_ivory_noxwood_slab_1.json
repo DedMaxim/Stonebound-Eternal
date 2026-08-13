@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "spectrum:ivory_noxwood_planks"
+  },
+  "result": {
+    "id": "spectrum:ivory_noxwood_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

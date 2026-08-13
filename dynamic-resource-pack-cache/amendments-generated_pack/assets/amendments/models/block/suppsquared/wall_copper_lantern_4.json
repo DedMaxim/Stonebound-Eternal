@@ -1,0 +1,9 @@
+{
+	"loader": "amendments:wall_lantern",
+	"support": {
+		"parent": "amendments:block/suppsquared/wall_copper_lantern_4_template",
+		"textures": {
+			"1": "amendments:block/wall_lanterns/suppsquared/copper_lantern"
+		}
+	}
+}

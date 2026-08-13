@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "goodending:cypress_log"
+    },
+    {
+      "item": "goodending:cypress_wood"
+    },
+    {
+      "item": "goodending:stripped_cypress_log"
+    },
+    {
+      "item": "goodending:stripped_cypress_wood"
+    }
+  ],
+  "result": {
+    "id": "goodending:cypress_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

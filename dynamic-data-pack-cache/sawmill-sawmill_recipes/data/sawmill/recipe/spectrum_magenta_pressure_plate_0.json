@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:magenta_log"
+    },
+    {
+      "item": "spectrum:magenta_wood"
+    },
+    {
+      "item": "spectrum:stripped_magenta_log"
+    },
+    {
+      "item": "spectrum:stripped_magenta_wood"
+    }
+  ],
+  "result": {
+    "id": "spectrum:magenta_pressure_plate",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

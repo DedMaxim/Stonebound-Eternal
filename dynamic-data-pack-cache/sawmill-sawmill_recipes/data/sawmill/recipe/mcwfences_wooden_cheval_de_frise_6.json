@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:light_blue_log"
+    },
+    {
+      "item": "spectrum:light_blue_wood"
+    },
+    {
+      "item": "spectrum:stripped_light_blue_log"
+    },
+    {
+      "item": "spectrum:stripped_light_blue_wood"
+    }
+  ],
+  "result": {
+    "id": "mcwfences:wooden_cheval_de_frise",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

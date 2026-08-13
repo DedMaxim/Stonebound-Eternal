@@ -1,0 +1,144 @@
+{
+	id: "2B3841478834FB88"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 3
+			id: "020C434C71F22380"
+			item: {
+				components: {
+					"ftbquests:loot_crate": "daily_reward"
+					"minecraft:custom_name": "{\"color\":\"light_purple\",\"text\":\"Daily Bonus\"}"
+					"minecraft:lore": ["\"Thanks for playing!\""]
+				}
+				count: 1
+				id: "ftbquests:lootcrate"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 24
+			id: "5A77C24A1CF958E0"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			weight: 8.0f
+		}
+		{
+			id: "3E60D6A271D166A5"
+			type: "xp"
+			weight: 6.0f
+			xp: 1000
+		}
+		{
+			count: 16
+			id: "6213501F3C52A831"
+			item: {
+				count: 1
+				id: "farmersdelight:hamburger"
+			}
+			weight: 8.0f
+		}
+		{ id: "56BD9966D91EAD4A", item: { count: 1, id: "cataclysm:mech_eye" } }
+		{ id: "46F1CFB9638712A3", item: { count: 1, id: "cataclysm:flame_eye" } }
+		{ id: "7D0303A2D1FAAF5A", item: { count: 1, id: "cataclysm:void_eye" } }
+		{ id: "66FAE0DFB2CD8B37", item: { count: 1, id: "cataclysm:monstrous_eye" } }
+		{ id: "3B191DABD5CFF91E", item: { count: 1, id: "cataclysm:abyss_eye" } }
+		{ id: "520FE6F01DDBC90F", item: { count: 1, id: "cataclysm:desert_eye" } }
+		{ id: "5151EE0BB47B2309", item: { count: 1, id: "cataclysm:cursed_eye" } }
+		{ id: "21A6C1EFA7604A31", item: { count: 1, id: "cataclysm:storm_eye" } }
+		{
+			count: 16
+			id: "3692A7CF3ED6CEDC"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 4
+			id: "1426DA86F961574E"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			weight: 4.0f
+		}
+		{ id: "3D0128C83C87FAA6", item: { count: 1, id: "minecraft:diamond" } }
+		{
+			count: 16
+			id: "0B21AFA473166610"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_essence"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 16
+			id: "073B0EC9D6F52ADB"
+			item: {
+				count: 1
+				id: "irons_spellbooks:common_ink"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 8
+			id: "00983BFD58D43B8E"
+			item: {
+				count: 1
+				id: "irons_spellbooks:uncommon_ink"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 4
+			id: "22469FE4B4CF33E0"
+			item: {
+				count: 1
+				id: "irons_spellbooks:rare_ink"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 2
+			id: "793FABD5366D9D84"
+			item: {
+				count: 1
+				id: "irons_spellbooks:epic_ink"
+			}
+			weight: 2.0f
+		}
+		{ id: "73107A6049019055", item: { count: 1, id: "irons_spellbooks:legendary_ink" } }
+		{
+			count: 20
+			id: "4EE58314C4ECA75C"
+			item: {
+				count: 1
+				id: "create:zinc_ingot"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 40
+			id: "586F5045B56015B1"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "77C6517DFB89ADFA"
+			item: {
+				count: 1
+				id: "createdeco:netherite_coin"
+			}
+			weight: 0.3f
+		}
+	]
+}

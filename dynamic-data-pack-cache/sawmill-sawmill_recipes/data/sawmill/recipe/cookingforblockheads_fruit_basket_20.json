@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:ivory_noxcap_stem"
+    },
+    {
+      "item": "spectrum:ivory_noxcap_hyphae"
+    },
+    {
+      "item": "spectrum:stripped_ivory_noxcap_stem"
+    },
+    {
+      "item": "spectrum:stripped_ivory_noxcap_hyphae"
+    }
+  ],
+  "result": {
+    "id": "cookingforblockheads:fruit_basket",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

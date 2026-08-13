@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "nethers_exoticism:jaboticaba_planks"
+  },
+  "result": {
+    "id": "minecraft:bowl",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

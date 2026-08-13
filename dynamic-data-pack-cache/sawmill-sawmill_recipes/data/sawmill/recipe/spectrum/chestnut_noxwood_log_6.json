@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "spectrum:stripped_chestnut_noxcap_hyphae"
+  },
+  "result": {
+    "id": "spectrum:stripped_chestnut_noxcap_stem",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

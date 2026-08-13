@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"ftbquests:lootcrate","components":{"ftbquests:loot_crate":"daily_reward","minecraft:custom_name":"{\"color\":\"light_purple\",\"text\":\"Daily Bonus\"}","minecraft:lore":["\"Thanks for playing!\""]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"createdeco:netherite_coin"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

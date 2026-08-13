@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reset_irons_spellbooksmountain_tower"
+	group: "75E98B1240F1480A"
+	id: "3666A47FFD0940F1"
+	images: [ ]
+	order_index: 15
+	quest_links: [ ]
+	quests: [ ]
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "spectrum:chestnut_noxwood_planks"
+  },
+  "result": {
+    "id": "spectrum:chestnut_noxwood_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

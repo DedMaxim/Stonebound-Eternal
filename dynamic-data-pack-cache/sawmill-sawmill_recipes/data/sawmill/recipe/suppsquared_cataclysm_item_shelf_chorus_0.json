@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "cataclysm:chorus_stem"
+  },
+  "result": {
+    "id": "suppsquared:cataclysm/item_shelf_chorus",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}

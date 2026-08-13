@@ -1,0 +1,12 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reset_cataclysmfrosted_prison"
+	group: "75E98B1240F1480A"
+	id: "7AF1323970C7C2B6"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+}

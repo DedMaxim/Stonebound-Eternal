@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "spectrum:stripped_light_blue_wood"
+  },
+  "result": {
+    "id": "spectrum:stripped_light_blue_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

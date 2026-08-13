@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "spectrum:orange_wood"
+  },
+  "result": {
+    "id": "spectrum:orange_log",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "spectrum:ebony_noxwood_planks"
+  },
+  "result": {
+    "id": "suppsquared:spectrum/item_shelf_ebony_noxwood",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

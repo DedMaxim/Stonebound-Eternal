@@ -1,0 +1,55 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "general"
+	group: "227EB7498F32478F"
+	icon: {
+		components: {
+			"irons_spellbooks:spell_container": {
+				data: [{
+					id: "irons_spellbooks:chain_creeper"
+					index: 0
+					level: 1
+					locked: 1b
+				}]
+				maxSpells: 1
+				mustEquip: 0b
+				spellWheel: 0b
+			}
+		}
+		id: "irons_spellbooks:scroll"
+	}
+	id: "4D0CDF0C91D220B5"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "31408D23324547E8"
+			tasks: [{
+				id: "7FC6305AB658B320"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "1DF788B0F2A784D8"
+			tasks: [{
+				id: "126211CFFBF89541"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "324F63FF16F678B9"
+			tasks: [{
+				id: "2E31ABDCDC5A6430"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+}

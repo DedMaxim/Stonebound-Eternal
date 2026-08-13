@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:green_log"
+    },
+    {
+      "item": "spectrum:green_wood"
+    },
+    {
+      "item": "spectrum:stripped_green_log"
+    },
+    {
+      "item": "spectrum:stripped_green_wood"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chiseled_bookshelf",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

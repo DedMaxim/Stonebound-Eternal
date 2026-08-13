@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "nethers_exoticism:ramboutan_planks"
+  },
+  "result": {
+    "id": "nethers_exoticism:rambutan_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

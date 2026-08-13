@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:ebony_noxcap_stem"
+    },
+    {
+      "item": "spectrum:ebony_noxcap_hyphae"
+    },
+    {
+      "item": "spectrum:stripped_ebony_noxcap_stem"
+    },
+    {
+      "item": "spectrum:stripped_ebony_noxcap_hyphae"
+    }
+  ],
+  "result": {
+    "id": "spectrum:ebony_noxwood_trapdoor",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

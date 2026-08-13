@@ -1,0 +1,12 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reset_cataclysmsunken_city"
+	group: "75E98B1240F1480A"
+	id: "40CA99449E817BC7"
+	images: [ ]
+	order_index: 10
+	quest_links: [ ]
+	quests: [ ]
+}

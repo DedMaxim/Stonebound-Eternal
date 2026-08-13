@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "goodending:muddy_oak_log"
+    },
+    {
+      "item": "goodending:muddy_oak_wood"
+    },
+    {
+      "item": "goodending:stripped_muddy_oak_log"
+    },
+    {
+      "item": "goodending:stripped_muddy_oak_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

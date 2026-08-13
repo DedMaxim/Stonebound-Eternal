@@ -1,0 +1,12 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reset_cataclysmcursed_pyramid"
+	group: "75E98B1240F1480A"
+	id: "401E46F096002F3F"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+}

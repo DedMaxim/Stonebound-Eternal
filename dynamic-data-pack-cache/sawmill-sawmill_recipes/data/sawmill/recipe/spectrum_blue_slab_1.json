@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "spectrum:blue_planks"
+  },
+  "result": {
+    "id": "spectrum:blue_slab",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

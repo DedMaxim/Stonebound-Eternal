@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:gray_log"
+    },
+    {
+      "item": "spectrum:gray_wood"
+    },
+    {
+      "item": "spectrum:stripped_gray_log"
+    },
+    {
+      "item": "spectrum:stripped_gray_wood"
+    }
+  ],
+  "result": {
+    "id": "starcatcher:display",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

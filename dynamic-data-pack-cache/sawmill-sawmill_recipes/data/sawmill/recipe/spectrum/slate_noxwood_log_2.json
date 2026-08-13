@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "spectrum:slate_noxcap_stem"
+  },
+  "result": {
+    "id": "spectrum:slate_noxcap_hyphae",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

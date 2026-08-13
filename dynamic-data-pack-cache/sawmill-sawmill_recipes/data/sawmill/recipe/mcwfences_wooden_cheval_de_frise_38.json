@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:lime_log"
+    },
+    {
+      "item": "spectrum:lime_wood"
+    },
+    {
+      "item": "spectrum:stripped_lime_log"
+    },
+    {
+      "item": "spectrum:stripped_lime_wood"
+    }
+  ],
+  "result": {
+    "id": "mcwfences:wooden_cheval_de_frise",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

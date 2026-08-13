@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:purple_log"
+    },
+    {
+      "item": "spectrum:purple_wood"
+    },
+    {
+      "item": "spectrum:stripped_purple_log"
+    },
+    {
+      "item": "spectrum:stripped_purple_wood"
+    }
+  ],
+  "result": {
+    "id": "suppsquared:spectrum/item_shelf_purple",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

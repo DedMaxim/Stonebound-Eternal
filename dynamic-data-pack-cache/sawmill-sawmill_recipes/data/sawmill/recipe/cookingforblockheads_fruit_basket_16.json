@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:orange_log"
+    },
+    {
+      "item": "spectrum:orange_wood"
+    },
+    {
+      "item": "spectrum:stripped_orange_log"
+    },
+    {
+      "item": "spectrum:stripped_orange_wood"
+    }
+  ],
+  "result": {
+    "id": "cookingforblockheads:fruit_basket",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

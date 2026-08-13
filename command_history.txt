@@ -1,0 +1,50 @@
+//replacenear 60 lava,water,gravel,tuff,deepslate,stone,sculk,dirt,granite,diorite,andesite,blackstone,magma_block air
+/reload
+/gamemode creative
+/setblock 181 226 -1107 chest
+/loot insert 181 226 -1107 loot minecraft:chests/end_city_treasure
+/gamemode survival
+/xp set DedMaxim99 0 levels
+/xp set DedMaxim99 0 points
+/xp add DedMaxim99 100000
+/xp set DedMaxim99 0 points
+/xp set DedMaxim99 0 levels
+/xp add DedMaxim99 10000
+/reload
+/xp set DedMaxim99 0 levels
+/xp set DedMaxim99 0 points
+/xp add DedMaxim99 10000
+/xp add DedMaxim99 100
+/xp add DedMaxim99 1000
+/xp set DedMaxim99 0 points
+/xp set DedMaxim99 0 levels
+/xp add DedMaxim99 10000
+/xp add DedMaxim99 100
+/xp add DedMaxim99 10
+/xp add DedMaxim99 1
+/gamemode creative
+/reload
+/gamemode survival
+/xp set DedMaxim99 0 levels
+/xp set DedMaxim99 0 points
+/xp add DedMaxim99 5000
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/summon wither
+/kill @e[type=wither]
+/setblock ~ ~ ~ minecraft:end_portal
+/damage @e[type=minecraft:ender_dragon,limit=1] 10
+/damage @e[type=minecraft:ender_dragon,limit=1] 100
+/damage @e[type=minecraft:ender_dragon,limit=1] 100 minecraft:arrow
+/locate structure cataclysm:ruined_citadel
+/tp @s -2080 ~ 576
+/setblock ~ ~ ~ minecraft:end_portal
+/give DedMaxim99 barrier
+/defaultoptions saveAll
+/reload
+/tellraw @a {"text":"123","color":"blue"}
+/tellraw @a {"text":"123","color":"green"}
+/execute as @s run kit give @s kit_daily
+/kit create_from_player_hotbar kit_daily 1d
+/kit create_from_player_hotbar kit_weekly 1w

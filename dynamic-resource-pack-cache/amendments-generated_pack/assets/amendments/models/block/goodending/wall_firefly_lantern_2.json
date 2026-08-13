@@ -1,0 +1,9 @@
+{
+	"loader": "amendments:wall_lantern",
+	"support": {
+		"parent": "amendments:block/goodending/wall_firefly_lantern_2_template",
+		"textures": {
+			"1": "amendments:block/wall_lanterns/goodending/firefly_lantern"
+		}
+	}
+}

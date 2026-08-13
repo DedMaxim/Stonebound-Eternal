@@ -1,0 +1,509 @@
+{
+	chapter.032FC11B9097B3A1.title: "Tips"
+	chapter.03FA0469FD3F2E25.title: "Reset example"
+	chapter.11D1C94D74CDB54E.title: "Reset irons_spellbooks:pyromancer_tower"
+	chapter.1A45948C54B503AF.title: "Reset irons_spellbooks:mangrove_hut"
+	chapter.1C3D786515DD50A9.title: "Welcome"
+	chapter.2357BB6979356064.title: "Reset cataclysm:acropolis"
+	chapter.296E1B19B58A792D.title: "Reset irons_spellbooks:ice_spider_den"
+	chapter.2D89E2CCB7F3CCB2.title: "StoneExpress"
+	chapter.34B63DC89F6F34FA.title: "Wonders of the World"
+	chapter.3636A7BEDD3CB31A.title: "Create"
+	chapter.3666A47FFD0940F1.title: "Reset irons_spellbooks:mountain_tower"
+	chapter.36C248E3AB160EFC.title: "Reset cataclysm:ruined_citadel"
+	chapter.401E46F096002F3F.title: "Reset cataclysm:cursed_pyramid"
+	chapter.40CA99449E817BC7.title: "Reset cataclysm:sunken_city"
+	chapter.42F377281EB00B39.title: "Reset cataclysm:ancient_factory"
+	chapter.4A22CBD0ED96A0BA.title: "Reset cataclysm:amethyst_nest"
+	chapter.4ACEB48E3355B8C4.title: "Minecraft"
+	chapter.4D0CDF0C91D220B5.title: "General"
+	chapter.4E02C195979248A9.title: "About Events"
+	chapter.4E95B62B22D63C02.title: "Reset cataclysm:soul_black_smith"
+	chapter.56DBA9ADC1BE6085.title: "Reset irons_spellbooks:evoker_fort"
+	chapter.57266C6640034DF2.title: "Credits"
+	chapter.65AE411C58E749CC.title: "Daily Dose of Cubes"
+	chapter.66BA7518254D209E.title: "Resets Main"
+	chapter.6D2BD3C252F4C064.title: "Reset irons_spellbooks:impaled_icebreaker"
+	chapter.7AF1323970C7C2B6.title: "Reset cataclysm:frosted_prison"
+	chapter.7F3B4C0E51C9685A.title: "Boss of all Bosses"
+	chapter.7F5EEEAF861DBAE0.title: "Reset cataclysm:burning_arena"
+	chapter_group.227EB7498F32478F.title: "Info"
+	chapter_group.26B8EF2584A68467.title: "Events"
+	chapter_group.2D72A8722D0CF169.title: "Quests"
+	chapter_group.6AB3B520830141E0.title: "Basics"
+	chapter_group.75E98B1240F1480A.title: "Admin"
+	quest.01A3700CB16F7139.title: "Inertia Book"
+	quest.02B6B1CC3329B370.title: "Inventory Insertion Book"
+	quest.02FA287F15E71ABE.quest_desc: [
+		"    &bVia Romana&r is an interesting early-on travel method. It lets you create physical roads that you can fast-travel along."
+		""
+		"    To make such a road, you'll need:"
+		"- Charting Map"
+		"- 2 items with \"sign\" in the name (also known as any sign)"
+		"- A shovel or any path blocks. What are \"path blocks\"? Type #path into the search bar in the inventory"
+		""
+		"    Once you have all that, first place a sign and start making a path from it towards your destination. When you've made 8-20 blocks of path, right-click the Charting Map and select Start Charting. Right-click the sign and click \"Add to Path\". There you can name this location, select an icon and change settings. Now continue walking towards your destination while making path. You'll see on screen if the path you made doesn't have enough path blocks - keep an eye on it! After you've reached your destination, place another sign, right-click it and press \"Add to Path\". Right-click the Charting Map again and click \"Finish Charting\". Done! You now have a way to teleport between these 2 signs."
+		"    To teleport, left-click the sign - it'll open a map of all available teleportation points on the connected path."
+	]
+	quest.05B443696A35B3BE.quest_desc: [
+		"    Welcome to the Create mod!"
+		""
+		"    This mod offers a wide variety of tools for building, decoration, and automation."
+		""
+		"    Create is focused on contraptions that can be as simple or as complicated as you want, while giving the player as much freedom as possible."
+	]
+	quest.05B443696A35B3BE.title: "Where it starts"
+	quest.05F9D5C0759A119D.quest_desc: [
+		"    Displays are a scalable alternative to signs, with a few additional features unique to Create."
+		""
+		"    They require rotational power to work, but can be automatically updated with information using Display Links."
+		""
+		"    You can get more information about them from the in-game Ponder System."
+	]
+	quest.05F9D5C0759A119D.title: "Displays"
+	quest.081F6AE06B2948DA.title: "Improved Critical Book"
+	quest.08DEFA911AACC466.quest_desc: [
+		"    Create: Hypertubes is inspired by Satisfactory's Hypertubes."
+		""
+		"    The mod allows you to move players and entities around a predetermined path as a means of transport."
+	]
+	quest.08E0B49FEAD6EAE9.quest_desc: [
+		"    &bWaterFrames&r is a media displaying mod. It can display images and video from a variety of sources: YouTube, Twitch, Kick.com, Google Drive, One Drive, Twitter (X) and [orange_page]. Items in this mod additionally provide lots of settings and are highly versatile."
+		""
+		"    &bImmersive Melodies&r is a musical mod which allows to play MIDI in game on different instruments. You can play existing in the mod MIDI files or upload your own. Right click with any instrument to open its UI. You can also give it to some mobs and make a band! They'll play the same MIDI you're playing next to them."
+		""
+		"    The modpack also features lots of decorative mods, which you can use to make pretty much anything you want - your imagination is your limit!"
+	]
+	quest.09BE40A3B51589D0.title: "Get to the purple city"
+	quest.0CD550ED29492E5C.quest_desc: [
+		"[ \"    In the \", { \"text\": \"weekly reward\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"42DB1F4BD90E0C95\" } }, \" quest you're given 2 Netherite coins per week. But what are they for?\" ]"
+		""
+		" - First, they're used to reset boss arenas. We're playing in a limited world with a goal to last for years. This means resources are limited and players in the future simply won't be able to experience the modpack to its fullest after we run out of rare dungeons. Thus this system got created. You can go to one of reset-able dungeons, pay with Netherite coins and get it reset!"
+		""
+		" - Second, they're used in late-game crafting of powerful items. Check out what you can make with them by hovering the mouse cursor over a coin and pressing U"
+	]
+	quest.11577FAAFB1AD9C0.title: "Visit every biome in the Nether"
+	quest.120E72B0355F66BA.quest_desc: [
+		"    This chapter is for &d&oyour custom events&r! Make a race, a maze, a treasure hunt, a quest, anything - make it an enjoyable time for you and your friends on the server! You get a lot of tools provided by a variety of mods and you can ask administrators for additional help setting up quests, NPCs and such."
+		""
+		"    &lNext page:&r How to make a quest line"
+		""
+		"{@pagebreak}"
+		"    &dTo make your own quest line:&r"
+		""
+		" - First, change your game's language to any language other than English (US). This step is very important!"
+		""
+		" - Then launch a world in singleplayer. Open quests and enable editing by pressing the pencil button at the bottom right."
+		""
+		" - As the next step, press the plus button next to the \"Events\" tab and write a name for your event. You can always change the name later if you want to."
+		""
+		" - Make the event there. Add all the quests, descriptions, dependencies, etc."
+		""
+		" - After you're done, click on the cog button at the bottom right and click Save on Server now."
+		""
+		" - Open the following location: modpack/config/ftbquests/quests. From there you'll need to send all chapters, reward tables and the language file to an administrator so your quest line can be added to the server."
+		""
+		"    &lNext page:&r Reasons your quest line might be rejected"
+		""
+		"{@pagebreak}"
+		"    &dReasons your quest line might be rejected&r"
+		""
+		"    Administrators, upon reviewing your quest line, might reject it for one or more of the following reasons:"
+		""
+		"    &l1.&r If your quest line breaks general server rules in some way (e.g., contains offensive language towards some group of people or a specific person)."
+		""
+		"    &l2.&r If automated or manual rewards are too generous."
+		"In general, giveaways are prohibited on the server. You can still give items as automated quest rewards but they must be small items. If you want to make a valuable prize for your quest, it has to come from your own pocket rather than an automated reward. Additionally, in all cases an administrator must find all rewards equal to the effort required to get them. (giving a diamond for a block of dirt quest won't do)"
+		""
+		"    &l3.&r Any additional situations are decided by the administration and they have the final word in any dispute."
+		""
+		"    &lNext page:&r FAQ"
+		""
+		"{@pagebreak}"
+		"    &dFAQ&r"
+		""
+		"    &l1.&r &6I need additional resources for my quest/event. Can they be added?&r"
+		"    Yes, any custom entity/item models/textures, NPC skins, sounds, etc can be added through the included Stonebound Resources resource pack. This resource pack, as well as the whole modpack, will have to be updated, of course, for these additions to take effect."
+		""
+		"    &l2.&r &6Is there anything my quest line is required to have?&r"
+		"    Only one thing: There must be a separate information quest (just like this one you're reading right now) that contains the following information:"
+		" - Quest/Event creator, additional contributors, additional credits"
+		" - Short explanation what this quest/event is about (e.g. \"This quest line is a detective RPG story\")"
+		" - Time frame, if any. This is needed if you're making a limited time event"
+		" - Any additional notes and comments you think the player will need"
+	]
+	quest.120E72B0355F66BA.quest_subtitle: "Read this, it's important"
+	quest.1300C4A1D5D64414.title: "Clovers' Favor Book"
+	quest.13341ADA17A7253A.quest_desc: [
+		"    The Boiler is a multiblock Stress generator. Each engine attached to it can output up to 16,384 SU."
+		""
+		"    A max level (Level 18) Steam Engine can output 294,912 SU."
+		""
+		"    But generally you will have a level 9 engine, which can output 147,456 SU."
+		""
+		"    If you want to know how to make a Steam Engine, either the in-game Ponder System or YouTube is a great place to start, as there are plenty of videos around."
+	]
+	quest.13341ADA17A7253A.title: "Boiler"
+	quest.1620BFFDCE7FB142.title: "Big Catch Book"
+	quest.1673746D9F0B7A95.title: "Tight Grip Book"
+	quest.1697E79071D7D690.title: "Get overdosed by every effect"
+	quest.1870479C29DF7BDE.quest_desc: [
+		"    It moves stuff."
+		""
+		"    Place 2 shafts on the ground parallel to each other. Then right-click both with a belt. You've got a conveyor now!"
+	]
+	quest.18F406658F5B9C80.quest_desc: [
+		"    The world is full of color, you just don't notice it. &bSpectrum&r is a mod about color and its use. The mod adds a lot of tools, weapons and armor and even a whole new dimension! The book from the mod will guide you through it."
+		""
+		"    To start, find a geode and mine some crystal shards there"
+	]
+	quest.19C9454B9BF3C816.quest_desc: ["    &bIron's Spellbooks and Spells&r is a mod about magic. Just by wondering around the world you'll come across items from this mod in loot chests. Make a spellbook and become a mage!"]
+	quest.19EC1197C6DC68E8.quest_desc: ["    Copper is used &nalmost&r exclusively in liquid transport for Create."]
+	quest.19EC1197C6DC68E8.title: "I Came Looking for Copper and I Found Copper"
+	quest.19F4EAC5C5812467.quest_desc: [
+		"    These blocks create a set amount of Stress that is viewable with the Engineer's Goggles."
+		""
+		"    The Stress that these generators create is available across the entire contraption, and if you go over that limit then the entire thing will lock up."
+		""
+		"    I would recommend you start with Water Wheels, or if you have an abundance of wool then a Windmill Bearing."
+		""
+		"    The Steam Engine is an advanced generator that will likely not be set up until you are at the Brass era."
+	]
+	quest.19F4EAC5C5812467.title: "Stress Generators"
+	quest.1B3C5960C573741C.quest_desc: [
+		"    The uses of Andesite Casing are split into 3 main categories:"
+		"- Contraption Blocks"
+		"- Crafting Blocks"
+		"- Transfer Blocks"
+	]
+	quest.1C25E5317EF9809E.title: "Foundry Book"
+	quest.1C26F8F7B1D1E683.quest_desc: ["    The Crushing Wheels are an advanced version of the Millstone, with additional recipes like cobblestone to gravel, and gravel to sand."]
+	quest.1C26F8F7B1D1E683.title: "Circles in Minecraft"
+	quest.1C2EF64C1D0FDC7B.title: "BFF <3"
+	quest.1D852285B1EA0745.quest_desc: ["    While playing modded Minecraft it is quite usual to see the FPS decrease over time. Big part of this lag comes from &centities&r. Entities are heavily used by mods even if you don't realize it. Obvious ones are animals, creatures and mobs. Others are chests, cogs, shafts and such. And some are even less noticeable like projectiles in magic mods or some visual elements of animations or builds. This lag, however, can greatly be reduced by the &bEntity Culling&r mod. If you simply place a wall between you and those laggy entities, they'll stop rendering, which will increase your FPS. It's not as pretty as having a fully open setup but it at least lets you play the game"]
+	quest.1DF788B0F2A784D8.quest_desc: [
+		"    For now, there are no special rules on Stonebound Eternal. Only general Stonebound rules apply, which you can find here:"
+		""
+		"https://www.stonebound.net/topic/2/rules"
+	]
+	quest.1F37B0DF10A50F94.quest_desc: ["    Especially if you're playing on a server, beware of night and dark places as that's where mobs appear, which want to kill you! You need a shelter for night or a bed to skip the night - you should make this your number 1 priority"]
+	quest.1F4AE0CA68F1DBD7.title: "First Strike Book"
+	quest.204C307F8FCC25E0.quest_desc: [
+		"    All quests linked to this one depict various mechanics within the Create mod, but are too complicated to explain briefly or are outside of a normal playthrough. Please read the description of each quest if you wish to know more."
+		""
+		"    The Ponder System is your friend."
+	]
+	quest.204C307F8FCC25E0.title: "More Create"
+	quest.20E7F61EB1E1C07C.quest_desc: [
+		"    Find a place for your house. Make sure it's the most beautiful place in the world! It's fine to spend some time exploring, no need to rush. Don't build right at spawn - spawn is a public place, find a place at least a little bit away."
+		""
+		"    When you found the place where you wanna live, put a waypoint there by pressing &9&lB&r. Type any name you want there and choose a color if you want to. This way you won't get lost"
+	]
+	quest.21EE96835A5E761A.quest_desc: ["    &bNaturalist&r is a mod about wildlife. It adds a bunch of cute animals, some items and decorative elements. Make a small zoo or just make friends with them!"]
+	quest.23D50CE13BBA1C9F.title: "Loyal Player"
+	quest.258C45A8EA694DCA.quest_desc: ["    As I said earlier, you need to get a bed as quickly as possible. A bed allows you to respawn on it and to skip dangerous nights. You can either &6craft a bed&r with 3 wool and 3 planks or find it in a &6village&r or some other structures"]
+	quest.258C45A8EA694DCA.title: "A place to sleep"
+	quest.25914EEA0E6AB1FB.quest_desc: [
+		"    An Elevator Pulley allows for the creation of a multi-floor elevator using Redstone Contacts and Contraption Controls."
+		""
+		"    Using Ponder will explain in more detail how to do this."
+	]
+	quest.26500EADF48FEACA.quest_desc: ["    You now know all the basics of Create, which is enough to give you a good head start. Now use this knowledge to make something more complex, bigger and really cool!"]
+	quest.26500EADF48FEACA.title: "You have learned basics of Create!"
+	quest.27D8C002D966D381.quest_desc: [
+		"    Now it's time to actually play the game. Go get some wood! Quick! (I hope you're not in a desert)."
+		"    After that, open your inventory with E and put wood in the crafting grid - this will make planks. Put 4 planks in the crafting grid and you got a &6CRAFTING TABLE&r!"
+	]
+	quest.27D8C002D966D381.title: "Punch tree"
+	quest.28C92882764D18AA.title: "Resonance Book"
+	quest.2C0B6968FA8560C5.quest_desc: ["    Clicking this button will complete this whole chapter. You can do it to just skip it if you're an experienced player and don't need a basic game tutorial. &cThis action cannot be undone!&r"]
+	quest.2C0B6968FA8560C5.title: "Complete Chapter Instantly"
+	quest.2ED1C8BD98F9D342.quest_desc: [
+		"    The Precision Mechanism is an end-of-mod crafting component. It is created through Sequenced Assembly and has a chance to fail, outputting a junk item instead."
+		""
+		"    It is used in various late-game items such as the Rotation Speed Controller and the Mechanical Arm."
+	]
+	quest.2F4D0600E1FF8F15.quest_desc: [
+		"    &lWelcome to Minecraft!&r If you play this game for the first time or played it long time ago, this quest line is for you. Here you'll learn about game basics and how to play it with mods."
+		""
+		"    If you're an experienced player and already know all of this, you can just skip the whole quest line by clicking the checkmark to the left of this quest"
+	]
+	quest.31408D23324547E8.quest_desc: ["    Video recording and streaming is generally allowed on Stonebound however since there's voicechat, I'll explicitly say that any moment any player could be recording or streaming their screen. So, please, keep it in mind. Don't say your private information out loud and don't get anyone in trouble for breaking TOS"]
+	quest.3144C120A4401B72.quest_desc: ["    &bSimple Voice Chat&r adds voice chat functionality and allows you to talk to other players on the server. Just press &aV&r to set it up and follow steps there!"]
+	quest.318D25E236D0153A.title: "Exuberance Book"
+	quest.324F63FF16F678B9.quest_desc: [
+		"    &l1&r. &6It's difficult to hit mobs but they can hit me. What's up with that?&r"
+		"    If you have difficulties with mobs' positioning, disable all Fresh Animations resource packs."
+		""
+		"    &l2.&r &6I don't like X sound/texture/effect/etc.&r"
+		"    You can disable resource packs or add your own resource packs to make the game feel more comfortable to you. You can do the same with client-side mods. Additionally, you can check out in-game settings and the config folder and tweak values there if you don't like any of default options."
+	]
+	quest.33CF4D096D6A575A.quest_desc: ["    Item Vaults allow you to store massive amounts of items. However, they can only be accessed mechanically and cannot be opened like a chest."]
+	quest.33CF4D096D6A575A.title: "Storage System"
+	quest.355230B35914ED46.quest_desc: [
+		"    Transit Blocks are blocks that allow you to interact with rotational power in different ways,"
+		"for example:"
+		"- The Clutch allows you to cut outgoing rotation when supplied with a redstone signal"
+		"- The Gearshift inverts outgoing rotation when supplied with a redstone signal"
+		"- A Mechanical Belt relays rotation between 2 shafts"
+		""
+		"    You can use the Ponder System to find examples of each."
+	]
+	quest.355230B35914ED46.title: "Transit Blocks"
+	quest.359B69DE3AFEEE76.quest_desc: [
+		"    The pipe is how you move your fluids from point A to point B."
+		""
+		"    The Mechanical Pump, when supplied with rotational force, will pump a liquid into a pipe or tank, following the arrows on the ends."
+	]
+	quest.365AEEEF3FF80788.quest_desc: ["    Zinc is used in both Copycat Panels and as an alternative to iron for Andesite Alloy."]
+	quest.365AEEEF3FF80788.title: "Zinc"
+	quest.3A0F68E1510BBAC4.quest_desc: [
+		"    These tools are incredibly useful when playing with the Create mod."
+		""
+		"    The Wrench allows you to rotate blocks with right-click, and instantly pick up any Create block with shift + right-click."
+		""
+		"    The Goggles allow you to see how much Stress a block creates or uses."
+	]
+	quest.3A0F68E1510BBAC4.title: "Useful Tools"
+	quest.3A31ACAE33C5B358.quest_desc: [
+		"    At this point you pretty much know how to play the game: go walk around, explore the world, when you find something you're seeing for the first time in your life, hit R or U on it, see what it does, etc. So yeah, good luck and have fun!"
+		""
+		"    You can also check out the Tips chapter that describes some neat small things in this modpack"
+	]
+	quest.3A4B156B552975B8.quest_desc: ["    You are now the ultimate champion! For this, you are rewarded with smallness!"]
+	quest.3A4B156B552975B8.quest_subtitle: "Congrats!"
+	quest.3A4B156B552975B8.title: "The Ultimate Reward"
+	quest.3B31192AC6B581DC.title: "Assemble a dead body"
+	quest.3BFE5466D33AC107.quest_desc: [
+		"    Cogs allow you to move rotation laterally to a shaft."
+		""
+		"    However, 2 cogs next to each other will rotate in opposite directions. With 3 cogs in a row, the 1st and 3rd cogs rotate the same direction, but the 2nd one rotates the opposite way."
+	]
+	quest.3BFE5466D33AC107.title: "Cogs"
+	quest.3CF6A12361832282.quest_desc: [
+		"    Brass is your higher-level core resource; it is used to make various advanced blocks from the mod."
+		""
+		"    It is made in a heated Basin with copper and zinc."
+	]
+	quest.411C5E4122A0E4B4.title: "Get a revenge on those creepers!"
+	quest.42DB1F4BD90E0C95.quest_subtitle: "Hope to see you again next week!"
+	quest.42DB1F4BD90E0C95.title: "Weekly Reward"
+	quest.46C8B6BE3D45D192.title: "Indestructible Book"
+	quest.4717E663A1987860.quest_desc: ["    &bNature's Compass&r allows to locate biomes. I recommend to make it early on while choosing a place to live, so you can find the biome you want"]
+	quest.49E7E1A58C04957D.title: "The Art of the Deal"
+	quest.4A1B9076E6F67AFF.quest_desc: [
+		"&lModpack development&r - &bDedMaxim99&r"
+		"&lQuests&r - &bDedMaxim99&r"
+		"&lQuests&r - &bKH3_Kairi&r"
+		"&lArtist&r - &bHASKO&r"
+		"&lGod&r - &bPhit&r"
+		""
+		"&lMice On Venus but make it *E X T R A* nostalgic&r - &bEMBRR&r"
+		"&lOriginal Mice On Venus&r - &bC418&r"
+	]
+	quest.4A2E4FC937F40F2C.quest_desc: [
+		"    The Shaft is your way to move rotation in one direction."
+		""
+		"    Shafts, cogs, and belts do not use any Stress Units."
+	]
+	quest.4A2E4FC937F40F2C.title: "The Shaft"
+	quest.4AFC958958571467.quest_desc: ["    Mechanical Crafters allow for the autocrafting of any vanilla recipe, and there are some additional recipes that can be made using them that are larger than the standard 3x3 grid, like the Crushing Wheels."]
+	quest.4BEDC20E0BBE4C04.quest_desc: ["    &bThe Bumblezone&r. Throw an ender pearl at a beehive, see what happens!"]
+	quest.559AB2811D5115D3.title: "The big hunt"
+	quest.56E103E4847AE68B.quest_desc: ["    The Rotation Speed Controller is one of the first things you should make with Precision Mechanisms, due to its ability to precisely control output rotational speed without any bulky gearshifting that you may have done up to this point."]
+	quest.570407B34048CD68.quest_desc: [
+		"    &bSophisticated Storage&r provides upgraded chests, barrels and shulker boxes with higher capacity. You can also add upgrades to these new containers. Limited barrels have a low number of slots, but each slot can store a massive amount of items. You can make a Storage Controller and place it next to a bunch of barrels with items to quickly drop all items of the same type. After you've done that, simply double right-click it."
+		""
+		"    &bSophisticated Backpacks&r is addition to Sophisticated Storage which adds similar style backpacks with different tiers and upgrades."
+		"    I recommend to make it early on, it'll help you a lot"
+	]
+	quest.58E70D80096CF79C.quest_desc: [
+		"    The Blaze Burner is used to apply heat to the Basin or the Boiler."
+		""
+		"    They can be heated by any furnace fuel and will stay heated for the normal amount of time that fuel provides."
+		""
+		"    They can be superheated by using a Blaze Cake on them, allowing for a max level Boiler or superheated Basin recipes."
+	]
+	quest.596DD7D771CB94D1.quest_desc: ["    The Andesite Casing is used to make most of the functional blocks in Create and is the most basic of the casings."]
+	quest.59D1C2C6EAFB4B93.quest_desc: ["    &bComputerCraft&r adds a bunch of different computers and their utilities. These computers can execute real LUA code. Experienced programmer can do crazy things with this mod but it's also easy to learn for a newbie. Try it out! Maybe you'll like it too"]
+	quest.5C99534D20FCEEF0.quest_desc: [
+		"    Copycat Blocks can be disguised as any other full block by right-clicking a placed Copycat Block, or by holding a block in your offhand when placing a Copycat Block."
+		""
+		"    Copycat+ is in this pack, so we also have additional Copycat Blocks available."
+	]
+	quest.5C99534D20FCEEF0.title: "Empty Blocks"
+	quest.5DF18225E954ABF3.title: "Curse of the Void Book"
+	quest.5F5735C8F2D3F665.quest_desc: [
+		"    The Hose Pulley allows you to pump up any liquids below it into pipes or a tank, provided the hose has been lowered down using the shaft connection opposite to the pipe connection."
+		""
+		"    To pump liquids you need a Mechanical Pump attached to it that is supplied with rotational force."
+	]
+	quest.5FB654E72BECD226.quest_desc: [
+		"    This one is pretty self-explanatory: it can store liquid within it once placed."
+		""
+		"    It does not retain its contents when broken."
+	]
+	quest.608581B273B78DB8.quest_desc: ["    &bJade&r is a mod which provides information about what you're currently looking at. However, for it to work you have to wear &aGoggles&r from &bCreate&r. You can either wear them in your head armor slot, in Curio head slot or even hold them in your hand"]
+	quest.60AE2316F17ECAE1.title: "The Cataclysm"
+	quest.61BF5600C35C24D7.quest_desc: ["    Now that you know how to figure things out, go get some stone and make better tools than a wooden pickaxe. Make a furnace as well, I guess."]
+	quest.61BF5600C35C24D7.title: "An upgrade"
+	quest.61CBD0FA93E5B5F8.quest_desc: [
+		"    The Deployer can simulate player actions on blocks or entities 2 blocks away from it."
+		""
+		"    This allows you to right-click an item onto a block or use an item on an entity."
+		""
+		"    Then there is Sequenced Assembly; items made through this sometimes require multiple passes to create."
+	]
+	quest.61CBD0FA93E5B5F8.title: "Deployer"
+	quest.62542DA53E5EA7C2.title: "Pest Control Book"
+	quest.63AEBDF596BB8911.quest_desc: [
+		"    Now I need you to make a wooden pickaxe! But unlike last time I'm not telling you how to make it. But I will tell you how to know how to make &lANYTHING&r!"
+		""
+		"    In your inventory there are a bunch of items to the right - those are every single item in the whole game! You can flip pages and look at what's there but this table also serves another purpose - it can tell you how to make those items and how to use those items."
+		"    So to learn how to make a wooden pickaxe you first need to find it by typing into the search bar \"&awooden pickaxe&r\". You'll see that now there is just the pickaxe in the table. Hover your cursor over it and press &9&lR&r. A new menu has opened with all the ways to get a wooden pickaxe. In that list you'll see a recipe in the crafting table. Follow this recipe and make a wooden pickaxe!"
+		""
+		"    Some more tips. You can hover over any item anywhere and press &9&lR&r to see its recipes. You can even view recipes of items inside of recipes. Additionally, you can hover over an item and press &9&lU&r to see what uses that item has!"
+	]
+	quest.63AEBDF596BB8911.title: "But how do I make it?"
+	quest.649477E80340AE5A.title: "Razing Book"
+	quest.653066A2CEE86C80.quest_desc: ["    Train Tracks are made in Sequenced Assembly, and are used to support and direct trains."]
+	quest.653066A2CEE86C80.title: "De Wei"
+	quest.665D7A5805F64136.quest_desc: [
+		"    Most Contraption Blocks can be used as part of a normal machine, but they shine when glued to a contraption, as they no longer need a direct source of rotational power."
+		""
+		"    The Mechanical Saw counts as both a Contraption Block and a Crafting Block."
+	]
+	quest.665D7A5805F64136.title: "Contraption Blocks"
+	quest.6A71C3416ED92670.title: "Steadfast Book"
+	quest.6C173B586E3F967B.title: "Inexorable Book"
+	quest.6C4CE163074ED46B.quest_desc: [
+		"    Trains are contraptions that travel on Train Tracks and are comprised of carriages carried on either one or two bogeys."
+		""
+		"    Create Trains can be controlled by players riding on the train, and can pass through Nether Portals."
+		""
+		"    Unlike vanilla minecarts, trains can also go through unloaded chunks even when unmanned, and be controlled by Conductors."
+		""
+		"    I would recommend using Ponder and YouTube to learn more regarding trains."
+	]
+	quest.6C4CE163074ED46B.title: "Trains"
+	quest.6C93575278055936.quest_desc: [
+		"    Crafting Blocks each have a unique interaction that allows for crafting:"
+		"- The Press will smash down below it, allowing you to make plates"
+		"- The Mixer will spin in a Basin to do mixing recipes, which include a more efficient Andesite Alloy recipe"
+		"- The Millstone has various recipes that are more efficient than hand crafting"
+	]
+	quest.6C93575278055936.title: "Crafting Blocks"
+	quest.6EA6A7C53E526B8C.quest_subtitle: "The Biomes O' Plenty one"
+	quest.6EA6A7C53E526B8C.title: "Where it all started"
+	quest.7081CFCFE6D86858.quest_desc: [
+		"    Schematics allow you to paste a preset design into the world, provided you have the materials for it. This is especially useful for copy-pasting the same design over and over again."
+		""
+		"    To learn more about the schematic system, Ponder any of these items: Schematicannon, Schematic, Schematic Table, or a Schematic and Quill."
+	]
+	quest.7081CFCFE6D86858.title: "Schematics"
+	quest.714F8DE881511FCD.quest_desc: [
+		"    Hey, welcome to &b&lStonebound Eternal&r! This modpack is made for the Stonebound server project. If you don't know what it is you can find more details about it here:"
+		"[ \"\", { \"text\": \"https://www.stonebound.net/\", \"underlined\": true, \"color\":\"green\", \"clickEvent\": { \"action\": \"open_url\", \"value\": \"https://www.stonebound.net/\" } }, \"\" ]"
+		"(you can click the link to open it)"
+		""
+		"    This pack is made with the goal of &6upgrading to future Minecraft&r versions while keeping the same world intact. The pack also has &6chill gameplay&r in mind without any \"&cget a million diamonds&r\" goals - you're free to do &6whatever you want&r, explore this world as you wish and leave your mark on it. For your best experience it's encouraged &6to not rush the late game&r but to take your time on your projects and socialization on the server."
+		""
+		"    &oNow go and make something great!~&r"
+		""
+		""
+		"    &lNext page:&r Important notice"
+		""
+		"{@pagebreak}"
+		"    &dImportant notice!&r"
+		""
+		"    As stated on the first page, the goal of this modpack is to survive Minecraft version changes. However, it's not always possible to update in a clean way. Over time, some mods might stop being supported by their developers, some mods might loose features or become incompatible with their old versions. Because of it, some content might get removed, added or changed in the modpack as time goes and the game's version changes. Because of it some of your items or blocks might get permanently &cdeleted&r! We of course will try to avoid such things but sometimes it will be unavoidable and you should be ready that it might happen any moment."
+		"    We hope for your understanding and thanks for playing Stonebound Eternal!"
+	]
+	quest.72E10244605890E0.quest_desc: ["    Brass Casing is the advanced level of casing, used to make more blocks."]
+	quest.7568A35B8AB671A1.quest_desc: ["    Train Casings are used to make the various train-related blocks and are used directly to create trains."]
+	quest.7568A35B8AB671A1.title: "Training"
+	quest.773D2B3B04CAE5D6.title: "Find a Diamond"
+	quest.78B1C0AB1EDA7309.title: "Serendipity Reel Book"
+	quest.79F4855A730EE548.quest_desc: [
+		"    Andesite Alloy is your core crafting component in Create. It is used to make the most-used items the mod provides, and will be needed for the rest of your playthrough."
+		""
+		"    To start, most Create items have a Ponder System: when you hold the listed key, a UI will pop up that shows you how the block can be used. This is especially helpful, since this questline is not going to go into detail on every little system the mod provides."
+		""
+		"    The mod uses 2 core features for its power system: Speed and Stress."
+		"Speed is how fast a section is rotating."
+		"Stress is the maximum that all connected components can reach before it locks up."
+	]
+	quest.79F4855A730EE548.title: "Basics Of Create"
+	quest.7C9A6F2173E1F4E6.quest_subtitle: "Enjoy your daily gift~"
+	quest.7C9A6F2173E1F4E6.title: "Daily Reward"
+	quest.7E2E10E595609072.quest_desc: [
+		"    The world consists of lots and lots of biomes and features challenging terrain with lots of mountains, hills, rivers and oceans. Structures are a lot more rare than usual. You'll need to explore a lot and build your own infrastructure in the world."
+		""
+		"    Most biomes have a &adominant ore&r. This ore is the most common in this biome but other ores still spawn, even though with reduced rate. You're encouraged to explore the world to find out what different biomes contain."
+		""
+		"    You can also view these biomes by looking up recipes of ores in JEI"
+	]
+	quest.7EA3B7AD7C04BC98.title: "Treasure Hunter Book"
+	quest.7F8122ABE5495BD9.title: "Sniping Book"
+	reward.68BC8310CB705D49.title: "2x Netherite Coin"
+	reward.7C8A09A64A115EE2.title: "Daily Bonus"
+	reward_table.263BE0855C0B2F57.title: "Small Reward"
+	reward_table.2B3841478834FB88.title: "Medium Reward"
+	reward_table.53F952EC0E0A0926.title: "Daily Reward"
+	reward_table.76C88ED197ADC60D.title: "Big Reward"
+	task.02A03A52AA2781E6.title: "Any #minecraft:logs"
+	task.02C8E372DE0C59D8.title: "More Create"
+	task.038FD82A3CD1918B.title: "I cast Fireball!"
+	task.0627B5BCCD359CDB.title: "25%"
+	task.06C6A599D5C972B9.title: "Kill The Wither"
+	task.09416C26082F0E85.title: "Chest of Iron"
+	task.126211CFFBF89541.title: "Rules"
+	task.14A21F808932249E.title: "Play for 250 hours"
+	task.16E4B92B617B1C3F.title: "Absolute Cinema"
+	task.18B27DB3B01EA98D.title: "Kill Scylla"
+	task.19695539C23C3953.title: "print(\"hello world\")"
+	task.20A51ADEEE4F2238.title: "75%"
+	task.230AC1B3E541AD13.title: "How to event?"
+	task.24517B5AC66DBCE6.title: "Kill Ignis"
+	task.24962B3924131167.title: "Complete all"
+	task.2A8F5748BE97002D.title: "World Generation"
+	task.2B0A06F49885425D.title: "Kill The Ancient Remnant"
+	task.2E31ABDCDC5A6430.title: "FAQ"
+	task.333F0C8088FC62BB.title: "Enemies"
+	task.339FA4518F184E9C.title: "Entities and FPS"
+	task.359F8C49A4FC67A9.title: "Kill Maledictus"
+	task.3636141D3EFA36C3.title: "Black gold"
+	task.37BD7414BB629BB1.title: "Kill The Netherite Monstrosity"
+	task.37E3FB0D0D29F116.title: "The ability to see"
+	task.38B7D6ADF5AC7964.title: "reset loot"
+	task.38BA0ACE2AA3DFF4.title: "Kill The Amethyst Crab"
+	task.3AC0521DD373F971.title: "Credits"
+	task.3F88C777BF7ACA2A.title: "What is this place, Filled with so many wonders?"
+	task.4134D51148B4DD1A.title: "Claim the Reward"
+	task.4577FA123CEBB635.title: "Claim the Reward"
+	task.479BF566DE70AD2A.title: "Ya like jazz?"
+	task.4A513497C7D2307A.title: "This is Minecraft"
+	task.55060297EED5F441.title: "Complete"
+	task.592579CE9E34DFC5.title: "50%"
+	task.5CF553B76D48A876.title: "Functional Blocks - Andesite"
+	task.5E883BC375211BAC.title: "Kill The Leviathan"
+	task.611658460B4D5CB3.title: "Kill The Ender Dragon"
+	task.62AD7769170D7AC7.title: "block set"
+	task.63DFAA00CB6B00A7.title: "Kill The Warden"
+	task.64E02546475DCCF8.title: "Is this thing on?"
+	task.65D503AA750B0006.title: "Kill The Harbinger"
+	task.683CF665F08906D2.title: "Colorful World"
+	task.6B6EF438DED769B0.title: "Let's Go!"
+	task.6CCE2391B31BABF1.title: "Get a Cataclysm item"
+	task.6DDD722F7E2BB8F5.title: "Good luck out there!"
+	task.6E07D39B8E030D4E.title: "Accept the Reward"
+	task.6E6E34FAF61B936C.title: "100%"
+	task.6F47997AF560EDE6.title: "Any #minecraft:beds"
+	task.715D2B9C8D23166B.title: "Roads"
+	task.737776936E6A6676.title: "Wooden compass"
+	task.752FFBE019D1DB0B.title: "Kill The Ender Golem"
+	task.76ECF9D2F497CF3C.title: "players detect"
+	task.770B88E8DC0C3E9C.title: "READ BEFORE CLICKING"
+	task.777621EF4C5ADED2.title: "Perfect place"
+	task.7FC6305AB658B320.title: "Recording"
+}

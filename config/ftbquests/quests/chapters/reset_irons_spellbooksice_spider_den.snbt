@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reset_irons_spellbooksice_spider_den"
+	group: "75E98B1240F1480A"
+	id: "296E1B19B58A792D"
+	images: [ ]
+	order_index: 12
+	quest_links: [ ]
+	quests: [ ]
+}

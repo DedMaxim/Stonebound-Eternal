@@ -1,0 +1,380 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tips"
+	group: "2D72A8722D0CF169"
+	hide_quest_until_deps_complete: true
+	icon: {
+		components: {
+			"ftbquests:icon": "jei:textures/jei/atlas/gui/icons/info.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "032FC11B9097B3A1"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "via_romana:textures/atlas/marker/landmark/type/destination_landmark.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "02FA287F15E71ABE"
+			rewards: [{
+				id: "08F98650CE3CE256"
+				item: {
+					count: 1
+					id: "via_romana:charting_map"
+				}
+				team_reward: true
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "715D2B9C8D23166B"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "minecraft:ender_eye"
+			}
+			id: "608581B273B78DB8"
+			rewards: [{
+				id: "01DE3643161FB201"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.25d
+			tasks: [{
+				id: "37E3FB0D0D29F116"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: -1.75d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "voicechat:icons/microphone"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3144C120A4401B72"
+			rewards: [{
+				id: "61CDCFD8C3856BB0"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "64E02546475DCCF8"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "irons_spellbooks:item/upgrade_orb_fire"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1D852285B1EA0745"
+			rewards: [{
+				id: "546467678EC28823"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "339FA4518F184E9C"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -0.75d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "immersive_melodies:piano"
+			}
+			id: "08E0B49FEAD6EAE9"
+			rewards: [{
+				id: "19EF5E2630FC35D5"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.25d
+			tasks: [{
+				id: "16E4B92B617B1C3F"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"sophisticatedstorage:wood_type": "spruce"
+				}
+				id: "sophisticatedstorage:iron_chest"
+			}
+			id: "570407B34048CD68"
+			rewards: [{
+				id: "08C45587AB697356"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "09416C26082F0E85"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"minecraft:bucket_entity_data": {
+						Variant: "naturalist:brown"
+					}
+					"minecraft:custom_data": {
+						Variant: "naturalist:brown"
+					}
+				}
+				id: "naturalist:hedgehog"
+			}
+			id: "21EE96835A5E761A"
+			rewards: [{
+				id: "1B0ADAB146E4B3E7"
+				item: {
+					count: 1
+					id: "naturalist:capture_net"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			size: 1.25d
+			tasks: [{
+				id: "3F88C777BF7ACA2A"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/entity_icon/bee/bee.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4BEDC20E0BBE4C04"
+			rewards: [{
+				id: "7562BEADDC517505"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.25d
+			tasks: [{
+				id: "479BF566DE70AD2A"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: 1.75d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "supplementaries:item/globe"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7E2E10E595609072"
+			rewards: [{
+				id: "439AAF8E6D9F05E8"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "2A8F5748BE97002D"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "spectrum:pigment_palette"
+			}
+			id: "18F406658F5B9C80"
+			rewards: [{
+				id: "0F507776221FB0C7"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "683CF665F08906D2"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.75d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "irons_spellbooks:wizard_hat"
+			}
+			id: "19C9454B9BF3C816"
+			rewards: [{
+				id: "0A440FAB37DDCFAC"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "038FD82A3CD1918B"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -1.75d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "computercraft:computer_normal"
+			}
+			id: "59D1C2C6EAFB4B93"
+			rewards: [{
+				id: "157DEEC494CAE7F2"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "19695539C23C3953"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 1.75d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "naturescompass:naturescompass"
+			}
+			id: "4717E663A1987860"
+			rewards: [{
+				id: "0F65B1BCFC5F2B94"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "737776936E6A6676"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -1.75d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "createdeco:netherite_coin"
+			}
+			id: "0CD550ED29492E5C"
+			rewards: [{
+				id: "1A390A493D3723DE"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "3636141D3EFA36C3"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.125d
+		}
+	]
+}

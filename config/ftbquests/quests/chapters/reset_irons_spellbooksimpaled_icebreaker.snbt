@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reset_irons_spellbooksimpaled_icebreaker"
+	group: "75E98B1240F1480A"
+	id: "6D2BD3C252F4C064"
+	images: [ ]
+	order_index: 13
+	quest_links: [ ]
+	quests: [ ]
+}

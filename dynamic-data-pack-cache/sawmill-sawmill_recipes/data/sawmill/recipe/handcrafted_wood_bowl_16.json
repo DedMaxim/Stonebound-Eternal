@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:magenta_log"
+    },
+    {
+      "item": "spectrum:magenta_wood"
+    },
+    {
+      "item": "spectrum:stripped_magenta_log"
+    },
+    {
+      "item": "spectrum:stripped_magenta_wood"
+    }
+  ],
+  "result": {
+    "id": "handcrafted:wood_bowl",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reset_irons_spellbooksmangrove_hut"
+	group: "75E98B1240F1480A"
+	id: "1A45948C54B503AF"
+	images: [ ]
+	order_index: 14
+	quest_links: [ ]
+	quests: [ ]
+}

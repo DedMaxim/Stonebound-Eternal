@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "goodending:muddy_oak_log"
+    },
+    {
+      "item": "goodending:muddy_oak_wood"
+    },
+    {
+      "item": "goodending:stripped_muddy_oak_log"
+    },
+    {
+      "item": "goodending:stripped_muddy_oak_wood"
+    }
+  ],
+  "result": {
+    "id": "goodending:muddy_oak_boat",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

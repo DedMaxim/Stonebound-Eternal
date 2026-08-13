@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:weeping_gala_log"
+    },
+    {
+      "item": "spectrum:weeping_gala_wood"
+    },
+    {
+      "item": "spectrum:stripped_weeping_gala_log"
+    },
+    {
+      "item": "spectrum:stripped_weeping_gala_wood"
+    }
+  ],
+  "result": {
+    "id": "spectrum:weeping_gala_door",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

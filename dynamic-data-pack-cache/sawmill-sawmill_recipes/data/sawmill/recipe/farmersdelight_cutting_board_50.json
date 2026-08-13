@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:black_log"
+    },
+    {
+      "item": "spectrum:black_wood"
+    },
+    {
+      "item": "spectrum:stripped_black_log"
+    },
+    {
+      "item": "spectrum:stripped_black_wood"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:cutting_board",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "nethers_exoticism:jaboticaba_planks"
+  },
+  "result": {
+    "id": "nethers_exoticism:jaboticaba_stairs",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

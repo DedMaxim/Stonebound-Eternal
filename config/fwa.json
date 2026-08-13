@@ -1,0 +1,12 @@
+{
+  "door_speed": "2.0",
+  "trapdoor_speed": "2.0",
+  "fencegate_speed": "2.0",
+  "jukebox_state": "false",
+  "chiseled_bookshelf_speed": "1.5",
+  "cauldron_state": "false",
+  "composter_speed": "2.0",
+  "repeater_speed": "2.0",
+  "campfire_speed": "0.5",
+  "chest_easing": "LINEAR"
+}

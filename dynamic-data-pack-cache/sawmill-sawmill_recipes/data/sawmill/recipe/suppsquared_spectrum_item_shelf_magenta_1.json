@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "spectrum:magenta_planks"
+  },
+  "result": {
+    "id": "suppsquared:spectrum/item_shelf_magenta",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "goodending:cypress_planks"
+  },
+  "result": {
+    "id": "goodending:cypress_button",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

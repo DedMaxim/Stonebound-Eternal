@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:slate_noxcap_stem"
+    },
+    {
+      "item": "spectrum:slate_noxcap_hyphae"
+    },
+    {
+      "item": "spectrum:stripped_slate_noxcap_stem"
+    },
+    {
+      "item": "spectrum:stripped_slate_noxcap_hyphae"
+    }
+  ],
+  "result": {
+    "id": "spectrum:slate_noxwood_trapdoor",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

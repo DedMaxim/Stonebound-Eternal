@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "spectrum:lime_wood"
+  },
+  "result": {
+    "id": "spectrum:stripped_lime_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

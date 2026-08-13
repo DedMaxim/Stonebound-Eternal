@@ -1,0 +1,16 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "nethers_exoticism:jabuticaba_log"
+    },
+    {
+      "item": "nethers_exoticism:stripped_jabuticaba_log"
+    }
+  ],
+  "result": {
+    "id": "nethers_exoticism:jaboticaba_stairs",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reset_irons_spellbookscatacombs"
+	group: "75E98B1240F1480A"
+	id: "56DBA9ADC1BE6085"
+	images: [ ]
+	order_index: 11
+	quest_links: [ ]
+	quests: [ ]
+}

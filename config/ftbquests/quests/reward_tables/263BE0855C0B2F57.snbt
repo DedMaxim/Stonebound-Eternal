@@ -1,0 +1,138 @@
+{
+	id: "263BE0855C0B2F57"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			id: "5072093E7B855EC3"
+			item: {
+				count: 1
+				id: "minecraft:dirt"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "1051BB5853522F29"
+			type: "xp"
+			weight: 8.0f
+			xp: 100
+		}
+		{
+			count: 16
+			id: "3D3416564EACC99F"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 8
+			id: "04F1E58D562DEBB6"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 16
+			id: "06CA418EF86FD803"
+			item: {
+				count: 1
+				id: "farmersdelight:sweet_berry_cookie"
+			}
+			weight: 8.0f
+		}
+		{
+			id: "5501E0361C583EC2"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+			weight: 2.0f
+		}
+		{ id: "48566FCC807F931D", item: { components: { "minecraft:potion_contents": { potion: "minecraft:swiftness" } }, count: 1, id: "minecraft:potion" } }
+		{
+			count: 4
+			id: "317DB3FE3A8F51F1"
+			item: {
+				count: 1
+				id: "glassential:glass_ethereal"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 32
+			id: "22DA5C05C335C609"
+			item: {
+				count: 1
+				id: "minecraft:cobblestone"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 3
+			id: "1C95A01C5F637B39"
+			item: {
+				count: 1
+				id: "minecraft:cobweb"
+			}
+			weight: 3.0f
+		}
+		{ id: "1AB76DC454B199E7", item: { components: { "ftbquests:loot_crate": "daily_reward", "minecraft:custom_name": "{\"color\":\"light_purple\",\"text\":\"Daily Bonus\"}", "minecraft:lore": ["\"Thanks for playing!\""] }, count: 1, id: "ftbquests:lootcrate" } }
+		{
+			count: 2
+			id: "3B69C1D5FDC76024"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 16
+			id: "35E4A73E73FB36A4"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "1FD237F00EE4E024"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_essence"
+			}
+		}
+		{ id: "7FD82D0B1F661A6E", item: { components: { "minecraft:potion_contents": { potion: "minecraft:healing" } }, count: 1, id: "minecraft:potion" } }
+		{
+			id: "270D55B44C666FAB"
+			item: {
+				count: 1
+				id: "createdeco:netherite_coin"
+			}
+			weight: 0.1f
+		}
+		{ id: "5DCCF1996D78FF00", item: { count: 1, id: "farmersdelight:dog_food" } }
+		{
+			count: 8
+			id: "37B11C049179A810"
+			item: {
+				count: 1
+				id: "create:zinc_ingot"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 12
+			id: "155FA8CE87328F06"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+			weight: 4.0f
+		}
+	]
+}

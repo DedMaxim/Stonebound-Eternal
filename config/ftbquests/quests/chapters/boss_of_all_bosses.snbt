@@ -1,0 +1,234 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "boss_of_all_bosses"
+	group: "2D72A8722D0CF169"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "cataclysm:flame_eye"
+	}
+	id: "7F3B4C0E51C9685A"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "1DF72356779F1D41"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: {
+					id: "cataclysm:mech_eye"
+				}
+				id: "65D503AA750B0006"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"5301B796E01EAA8C"
+				"1F74C35EC849E508"
+				"0A55DF193F642987"
+				"7D043D91DA1D55EC"
+				"27D6A60A09D6EE8E"
+				"5CEA6BAD58CBC4ED"
+				"1DF72356779F1D41"
+				"01493C4654ED14B7"
+				"686E7C3B4DD4F7E5"
+				"10AF37EF8951A794"
+				"5E6166AB50731779"
+				"1B6407C34B37582B"
+			]
+			icon: {
+				id: "shrink:shrinking_device"
+			}
+			icon_scale: 0.75d
+			id: "3A4B156B552975B8"
+			rewards: [{
+				id: "2AC1DBF3E8F60395"
+				item: {
+					count: 1
+					id: "shrink:shrinking_device"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "6E07D39B8E030D4E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "1F74C35EC849E508"
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				icon: {
+					id: "cataclysm:desert_eye"
+				}
+				id: "2B0A06F49885425D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "7D043D91DA1D55EC"
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				icon: {
+					id: "cataclysm:cursed_eye"
+				}
+				id: "359F8C49A4FC67A9"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "01493C4654ED14B7"
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: {
+					id: "cataclysm:abyss_eye"
+				}
+				id: "5E883BC375211BAC"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "5CEA6BAD58CBC4ED"
+			tasks: [{
+				entity: "cataclysm:scylla"
+				icon: {
+					id: "cataclysm:storm_eye"
+				}
+				id: "18B27DB3B01EA98D"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "0A55DF193F642987"
+			tasks: [{
+				entity: "cataclysm:ignis"
+				icon: {
+					id: "cataclysm:flame_eye"
+				}
+				id: "24517B5AC66DBCE6"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "27D6A60A09D6EE8E"
+			tasks: [{
+				entity: "cataclysm:netherite_monstrosity"
+				icon: {
+					id: "cataclysm:monstrous_eye"
+				}
+				id: "37BD7414BB629BB1"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "5301B796E01EAA8C"
+			tasks: [{
+				entity: "cataclysm:ender_golem"
+				icon: {
+					id: "cataclysm:void_eye"
+				}
+				id: "752FFBE019D1DB0B"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "686E7C3B4DD4F7E5"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: {
+					id: "minecraft:dragon_egg"
+				}
+				id: "611658460B4D5CB3"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "5E6166AB50731779"
+			tasks: [{
+				entity: "cataclysm:amethyst_crab"
+				icon: {
+					id: "cataclysm:blessed_amethyst_crab_meat"
+				}
+				id: "38BA0ACE2AA3DFF4"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "1B6407C34B37582B"
+			tasks: [{
+				entity: "minecraft:wither"
+				icon: {
+					id: "minecraft:wither_skeleton_skull"
+				}
+				id: "06C6A599D5C972B9"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "10AF37EF8951A794"
+			tasks: [{
+				entity: "minecraft:warden"
+				icon: {
+					id: "minecraft:echo_shard"
+				}
+				id: "63DFAA00CB6B00A7"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+	]
+}

@@ -1,0 +1,629 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "wonders_of_the_world"
+	group: "2D72A8722D0CF169"
+	hide_quest_until_deps_complete: true
+	icon: {
+		components: {
+			"ftbquests:icon": "ftblibrary:icons/globe"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "34B63DC89F6F34FA"
+	images: [{
+		height: 5.02d
+		id: "44245703C5EBB921"
+		image: "stonebound:textures/battery_frame.png"
+		rotation: 0.0d
+		width: 1.33d
+		x: 5.0d
+		y: -0.55d
+	}]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "6EA6A7C53E526B8C"
+			rewards: [{
+				id: "703DEDD72BC594B8"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [{
+				biome: "terralith:alpha_islands"
+				id: "72518E71FC15D48B"
+				type: "biome"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cataclysm:item/abyss_eye"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "60AE2316F17ECAE1"
+			rewards: [{
+				id: "548E81BD3E04B3C6"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [{
+				id: "6CCE2391B31BABF1"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cataclysm:explosion_immune_item)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "1C2EF64C1D0FDC7B"
+			rewards: [{
+				id: "4847B4EC78BA2DF1"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/tame_an_animal"
+				criterion: ""
+				id: "501A5F3A82BBD401"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "11577FAAFB1AD9C0"
+			rewards: [{
+				id: "0950B90D263A2DAB"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/explore_nether"
+				criterion: ""
+				id: "65E45A7CB8EDD23B"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "49E7E1A58C04957D"
+			rewards: [{
+				id: "5510DE3068691E18"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "minecraft:adventure/trade"
+				criterion: ""
+				id: "5621077EAAECF961"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "1697E79071D7D690"
+			rewards: [{
+				id: "5BD7D4CEA149B648"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "minecraft:nether/all_effects"
+				criterion: ""
+				id: "314113B49FB89D10"
+				type: "advancement"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"1697E79071D7D690"
+				"1C2EF64C1D0FDC7B"
+				"60AE2316F17ECAE1"
+				"49E7E1A58C04957D"
+				"6EA6A7C53E526B8C"
+				"11577FAAFB1AD9C0"
+				"773D2B3B04CAE5D6"
+				"559AB2811D5115D3"
+				"411C5E4122A0E4B4"
+				"09BE40A3B51589D0"
+				"3B31192AC6B581DC"
+				"23D50CE13BBA1C9F"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "stonebound:textures/battery_cell.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "16ED603BB94AF039"
+			min_required_dependencies: 12
+			rewards: [
+				{
+					id: "0B4EDB75F8BDF4A8"
+					table_id: 8559248122661684749L
+					team_reward: false
+					type: "random"
+				}
+				{
+					id: "777F7443679050F6"
+					item: {
+						count: 1
+						id: "waystones:warp_dust"
+					}
+					team_reward: true
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [{
+				id: "6E6E34FAF61B936C"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "773D2B3B04CAE5D6"
+			rewards: [{
+				id: "0BC8867ED0875952"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: false
+				id: "7CE86D1C8BCEF213"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "559AB2811D5115D3"
+			rewards: [{
+				id: "03E7288443AD3236"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "minecraft:zombie"
+					id: "519BED56EAC4B327"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:skeleton"
+					id: "44FF3561ADC00735"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:spider"
+					id: "561E0CAB49C7B7D1"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:cave_spider"
+					id: "160BA7F7A7352591"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:creeper"
+					id: "61F31D4E98714EBC"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:witch"
+					id: "054E3610FAD54779"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:enderman"
+					id: "1C6B0B4211E320BB"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:blaze"
+					id: "1E59878EF940F35E"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:piglin"
+					id: "0C22093B85E7F486"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:zombified_piglin"
+					id: "7EA5A7CAAB15BBAC"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:hoglin"
+					id: "5C5CD81D92297055"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:zoglin"
+					id: "227ECD9F4657C9BB"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:breeze"
+					id: "7529BEA2EF3A80F4"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:silverfish"
+					id: "0B68DEA62AED1104"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:ghast"
+					id: "2870D95FFB94984A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:drowned"
+					id: "0C49F423D407D475"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:guardian"
+					id: "534FB572C403CC57"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:evoker"
+					id: "1EDE71601447448C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:pillager"
+					id: "1250B74356611A0A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:magma_cube"
+					id: "7981808567A67D42"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:phantom"
+					id: "6667A6076E8F61FB"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:ravager"
+					id: "46F56159A81F1DC4"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:shulker"
+					id: "4F0072C5FD80D773"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:slime"
+					id: "1BB03DF72FFE9B3E"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:vindicator"
+					id: "7BB5B2A20B86F975"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:wither_skeleton"
+					id: "0369869C0A271010"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:endermite"
+					id: "66E8AEAD71E65784"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "irons_spellbooks:necromancer"
+					id: "33BE72CE93C219A6"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"1697E79071D7D690"
+				"1C2EF64C1D0FDC7B"
+				"60AE2316F17ECAE1"
+				"49E7E1A58C04957D"
+				"6EA6A7C53E526B8C"
+				"11577FAAFB1AD9C0"
+				"773D2B3B04CAE5D6"
+				"559AB2811D5115D3"
+				"411C5E4122A0E4B4"
+				"09BE40A3B51589D0"
+				"3B31192AC6B581DC"
+				"23D50CE13BBA1C9F"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "stonebound:textures/battery_cell.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "7702A245BE42DF30"
+			min_required_dependencies: 9
+			rewards: [{
+				id: "1CD697D8D74E8E64"
+				table_id: 8559248122661684749L
+				team_reward: false
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "20A51ADEEE4F2238"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"1697E79071D7D690"
+				"1C2EF64C1D0FDC7B"
+				"60AE2316F17ECAE1"
+				"49E7E1A58C04957D"
+				"6EA6A7C53E526B8C"
+				"11577FAAFB1AD9C0"
+				"773D2B3B04CAE5D6"
+				"559AB2811D5115D3"
+				"411C5E4122A0E4B4"
+				"09BE40A3B51589D0"
+				"3B31192AC6B581DC"
+				"23D50CE13BBA1C9F"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "stonebound:textures/battery_cell.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "501B39E57952605A"
+			min_required_dependencies: 6
+			rewards: [{
+				id: "03116B30F8C2FAD7"
+				table_id: 3114310917810355080L
+				team_reward: false
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "592579CE9E34DFC5"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1697E79071D7D690"
+				"1C2EF64C1D0FDC7B"
+				"60AE2316F17ECAE1"
+				"49E7E1A58C04957D"
+				"6EA6A7C53E526B8C"
+				"11577FAAFB1AD9C0"
+				"773D2B3B04CAE5D6"
+				"559AB2811D5115D3"
+				"411C5E4122A0E4B4"
+				"09BE40A3B51589D0"
+				"23D50CE13BBA1C9F"
+				"3B31192AC6B581DC"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "stonebound:textures/battery_cell.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "661D5E94CD16BE7E"
+			min_required_dependencies: 3
+			rewards: [{
+				id: "3007435052FF11B9"
+				table_id: 3114310917810355080L
+				team_reward: false
+				type: "random"
+			}]
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "0627B5BCCD359CDB"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "23D50CE13BBA1C9F"
+			rewards: [{
+				id: "48313F3C6B87284F"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "supplementaries:item/hourglass"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "14A21F808932249E"
+				stat: "minecraft:play_time"
+				type: "stat"
+				value: 43200000
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "411C5E4122A0E4B4"
+			rewards: [{
+				id: "6C083CC812862F02"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [{
+				id: "43E36C78A7F9282A"
+				item: { count: 1, id: "minecraft:creeper_head" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "betterarcheology:creeper_fossil"
+			}
+			id: "3B31192AC6B581DC"
+			rewards: [{
+				id: "14DDA9DB63F4165E"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "55FAB70B59F10DA0"
+					item: { count: 1, id: "betterarcheology:creeper_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "0EF7EC60FF09628E"
+					item: { count: 1, id: "betterarcheology:villager_fossil" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "28BA3CF99D45AEB1"
+					item: { count: 1, id: "betterarcheology:chicken_fossil" }
+					type: "item"
+				}
+				{
+					id: "05EA878C33A5E2B6"
+					item: { count: 1, id: "betterarcheology:ocelot_fossil" }
+					type: "item"
+				}
+				{
+					id: "430E53BAF3990D79"
+					item: { count: 1, id: "betterarcheology:wolf_fossil" }
+					type: "item"
+				}
+				{
+					id: "5811643081BC1655"
+					item: { count: 1, id: "betterarcheology:sheep_fossil" }
+					type: "item"
+				}
+				{
+					id: "369E14FBF6C69C64"
+					item: { count: 1, id: "betterarcheology:guardian_fossil" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			id: "09BE40A3B51589D0"
+			rewards: [{
+				id: "68F9615870D33AB7"
+				table_id: 2755042460446699351L
+				team_reward: false
+				type: "random"
+			}]
+			tasks: [{
+				icon: {
+					id: "minecraft:shulker_box"
+				}
+				id: "39509BB8D2AB2BD0"
+				structure: "minecraft:end_city"
+				type: "structure"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+	]
+}

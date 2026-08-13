@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:blue_log"
+    },
+    {
+      "item": "spectrum:blue_wood"
+    },
+    {
+      "item": "spectrum:stripped_blue_log"
+    },
+    {
+      "item": "spectrum:stripped_blue_wood"
+    }
+  ],
+  "result": {
+    "id": "spectrum:blue_button",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

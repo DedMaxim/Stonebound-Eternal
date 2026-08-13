@@ -1,0 +1,514 @@
+{
+	icon: {
+		components: {
+			"ftbquests:loot_crate": "daily_reward"
+			"minecraft:custom_name": "{\"color\":\"light_purple\",\"text\":\"Daily Bonus\"}"
+			"minecraft:lore": ["\"Thanks for playing!\""]
+		}
+		id: "ftbquests:lootcrate"
+	}
+	id: "53F952EC0E0A0926"
+	loot_crate: {
+		color: 16777215
+		drops: {
+			boss: 0
+			monster: 0
+			passive: 0
+		}
+		item_name: "Daily Reward"
+		string_id: "daily_reward"
+	}
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "08D50CD27498B38E", item: { count: 1, id: "waystones:warp_dust" } }
+		{
+			count: 6
+			id: "7C9D378A9641AFDA"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 2
+			id: "060BD84FD5501B81"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "5D2D8C308FF193B0"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7F4A617D2D106D88"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "66156B3BE56FF48C"
+			item: {
+				count: 1
+				id: "minecraft:netherite_ingot"
+			}
+			weight: 1.5f
+		}
+		{
+			count: 8
+			id: "1D1961A3717D8307"
+			item: {
+				count: 1
+				id: "minecraft:cooked_beef"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 8
+			id: "4F59E6ADEC66FCE3"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 6
+			id: "2779680A94C124A9"
+			item: {
+				count: 1
+				id: "minecraft:glowstone_dust"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 8
+			id: "0742BE5FDD677226"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_essence"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 8
+			id: "6D41024D794DD033"
+			item: {
+				count: 1
+				id: "irons_spellbooks:common_ink"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 6
+			id: "2790C8FEECFD44D1"
+			item: {
+				count: 1
+				id: "irons_spellbooks:uncommon_ink"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 4
+			id: "59AEFDAA034AF536"
+			item: {
+				count: 1
+				id: "irons_spellbooks:rare_ink"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 2
+			id: "1091709388BC7811"
+			item: {
+				count: 1
+				id: "irons_spellbooks:epic_ink"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "1FF158A2576C0815"
+			item: {
+				count: 1
+				id: "irons_spellbooks:legendary_ink"
+			}
+			weight: 1.5f
+		}
+		{
+			id: "633A7F314B08C113"
+			item: {
+				count: 1
+				id: "the_bumblezone:buzzing_briefcase"
+			}
+			weight: 1.5f
+		}
+		{
+			count: 4
+			id: "003A745DDD9A7573"
+			item: {
+				count: 1
+				id: "minecraft:tnt"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "00138B1AADDED36E"
+			item: {
+				count: 1
+				id: "createdeco:netherite_coin"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "582DBB127F1B1E5E"
+			item: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:night_vision"
+					}
+				}
+				count: 1
+				id: "minecraft:potion"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "535003531C90AC3E"
+			item: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:invisibility"
+					}
+				}
+				count: 1
+				id: "minecraft:potion"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "22D52F84E4177831"
+			item: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:fire_resistance"
+					}
+				}
+				count: 1
+				id: "minecraft:potion"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "1176D8CA4842DBBB"
+			item: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:strength"
+					}
+				}
+				count: 1
+				id: "minecraft:potion"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "29BCBD7990667856"
+			item: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:turtle_master"
+					}
+				}
+				count: 1
+				id: "minecraft:potion"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "40A0326E10DBB016"
+			item: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:harming"
+					}
+				}
+				count: 1
+				id: "minecraft:splash_potion"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "221FC29E0F73BE7B"
+			item: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:weakness"
+					}
+				}
+				count: 1
+				id: "minecraft:splash_potion"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "69358204B1136255"
+			item: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:oozing"
+					}
+				}
+				count: 1
+				id: "minecraft:splash_potion"
+			}
+			weight: 2.0f
+		}
+		{
+			command: "/say I just got an amazing reward!"
+			id: "1FB6ED9D4EE5CAA8"
+			permission_level: 4
+			type: "command"
+		}
+		{
+			id: "16A070E6E6D937CE"
+			item: {
+				count: 1
+				id: "minecraft:trial_key"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "2757250AE475CDA5"
+			item: {
+				count: 1
+				id: "minecraft:ominous_trial_key"
+			}
+			weight: 1.5f
+		}
+		{
+			id: "434BC2C11DB6AA46"
+			item: {
+				count: 1
+				id: "minecraft:enchanted_golden_apple"
+			}
+			weight: 1.5f
+		}
+		{
+			id: "090C8EB7BE90AE3A"
+			item: {
+				count: 1
+				id: "minecraft:golden_apple"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "75560082375D8B26"
+			item: {
+				count: 1
+				id: "minecraft:dirt"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 8
+			id: "245FC5263A1075BD"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 16
+			id: "01B5D5816CFA1D4C"
+			item: {
+				count: 1
+				id: "minecraft:apple"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 12
+			id: "17EACBFFF8FD3B70"
+			item: {
+				count: 1
+				id: "create:honeyed_apple"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "0CA03B4E6A49EED5"
+			item: {
+				components: {
+					"minecraft:stored_enchantments": {
+						levels: {
+							"minecraft:binding_curse": 1
+						}
+					}
+				}
+				count: 1
+				id: "minecraft:enchanted_book"
+			}
+			weight: 2.0f
+		}
+		{ id: "539BCC319D4332DE", item: { components: { "minecraft:stored_enchantments": { levels: { "minecraft:mending": 1 } } }, count: 1, id: "minecraft:enchanted_book" } }
+		{
+			id: "16C48F3838E819CC"
+			item: {
+				components: {
+					"minecraft:stored_enchantments": {
+						levels: {
+							"minecraft:vanishing_curse": 1
+						}
+					}
+				}
+				count: 1
+				id: "minecraft:enchanted_book"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "1F0DF026D7100569"
+			item: {
+				components: {
+					"minecraft:stored_enchantments": {
+						levels: {
+							"minecraft:efficiency": 1
+						}
+					}
+				}
+				count: 1
+				id: "minecraft:enchanted_book"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "036DF22FF0D48A24"
+			item: {
+				components: {
+					"minecraft:stored_enchantments": {
+						levels: {
+							"minecraft:power": 1
+						}
+					}
+				}
+				count: 1
+				id: "minecraft:enchanted_book"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "3F3836E60AE93C85"
+			item: {
+				components: {
+					"minecraft:stored_enchantments": {
+						levels: {
+							"minecraft:sharpness": 1
+						}
+					}
+				}
+				count: 1
+				id: "minecraft:enchanted_book"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 6
+			id: "0F9B426BE11ED4C6"
+			item: {
+				count: 1
+				id: "create:zinc_ingot"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 12
+			id: "14D1CAEAACAD2DCE"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "78268E331C9DD471"
+			item: {
+				count: 1
+				id: "minecraft:blaze_rod"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "190D388880AE78DC"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 10
+			id: "18B4548BD115436B"
+			item: {
+				count: 1
+				id: "minecraft:rotten_flesh"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 10
+			id: "2CD0E43209E53AB2"
+			item: {
+				count: 1
+				id: "minecraft:bone"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 4
+			id: "7CDC7B359A58B059"
+			item: {
+				count: 1
+				id: "minecraft:gunpowder"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 8
+			id: "5EC61B42E6FFE33F"
+			item: {
+				count: 1
+				id: "minecraft:spider_eye"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 6
+			id: "7E05F50A154AEA98"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+			weight: 4.0f
+		}
+		{
+			count: 16
+			id: "73018A472874EB2E"
+			item: {
+				count: 1
+				id: "minecraft:arrow"
+			}
+			weight: 4.0f
+		}
+	]
+}

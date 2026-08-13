@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:lime_log"
+    },
+    {
+      "item": "spectrum:lime_wood"
+    },
+    {
+      "item": "spectrum:stripped_lime_log"
+    },
+    {
+      "item": "spectrum:stripped_lime_wood"
+    }
+  ],
+  "result": {
+    "id": "spectrum:lime_stairs",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

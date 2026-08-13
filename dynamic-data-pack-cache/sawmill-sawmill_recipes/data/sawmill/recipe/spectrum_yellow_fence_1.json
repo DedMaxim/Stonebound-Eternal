@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "spectrum:yellow_planks"
+  },
+  "result": {
+    "id": "spectrum:yellow_fence",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

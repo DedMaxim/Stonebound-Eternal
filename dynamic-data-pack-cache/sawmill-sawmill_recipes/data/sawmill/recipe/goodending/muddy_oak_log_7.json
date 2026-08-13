@@ -1,0 +1,11 @@
+{
+  "group": "log",
+  "ingredient": {
+    "item": "goodending:stripped_muddy_oak_log"
+  },
+  "result": {
+    "id": "goodending:stripped_muddy_oak_wood",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

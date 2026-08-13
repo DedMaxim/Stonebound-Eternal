@@ -1,0 +1,34 @@
+{
+  "key": {
+    "A": {
+      "ingredient": {
+        "item": "minecraft:oak_slab"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "nethers_exoticism:jabuticaba",
+      "type": "moonlight:block_type_swap"
+    }
+  },
+  "pattern": [
+    "AAA"
+  ],
+  "result": {
+    "id": "suppsquared:nethers_exoticism/item_shelf_jabuticaba",
+    "count": 2
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped",
+  "fabric:load_conditions": [
+    {
+      "condition": "supplementaries:flag",
+      "flag": "item_shelf"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "item_shelf"
+    }
+  ]
+}

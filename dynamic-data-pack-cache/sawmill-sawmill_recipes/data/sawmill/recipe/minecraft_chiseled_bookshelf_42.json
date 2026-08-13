@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "spectrum:chestnut_noxcap_stem"
+    },
+    {
+      "item": "spectrum:chestnut_noxcap_hyphae"
+    },
+    {
+      "item": "spectrum:stripped_chestnut_noxcap_stem"
+    },
+    {
+      "item": "spectrum:stripped_chestnut_noxcap_hyphae"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chiseled_bookshelf",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

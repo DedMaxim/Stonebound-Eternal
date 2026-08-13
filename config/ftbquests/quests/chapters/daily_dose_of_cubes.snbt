@@ -1,0 +1,78 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "daily_dose_of_cubes"
+	group: "2D72A8722D0CF169"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "minecraft:clock"
+	}
+	id: "65AE411C58E749CC"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "42DB1F4BD90E0C95"
+			repeat_cooldown: 604800
+			rewards: [{
+				auto: "no_toast"
+				command: "/execute as @s run kit give @s kit_weekly"
+				icon: {
+					id: "createdeco:netherite_coin"
+				}
+				id: "68BC8310CB705D49"
+				permission_level: 4
+				team_reward: false
+				type: "command"
+			}]
+			tasks: [{
+				id: "4134D51148B4DD1A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				components: {
+					"ftbquests:loot_crate": "daily_reward"
+					"minecraft:custom_name": "{\"color\":\"light_purple\",\"text\":\"Daily Bonus\"}"
+					"minecraft:lore": ["\"Thanks for playing!\""]
+				}
+				id: "ftbquests:lootcrate"
+			}
+			id: "7C9A6F2173E1F4E6"
+			repeat_cooldown: 86400
+			rewards: [{
+				auto: "no_toast"
+				command: "/execute as @s run kit give @s kit_daily"
+				icon: {
+					components: {
+						"ftbquests:loot_crate": "daily_reward"
+						"minecraft:custom_name": "{\"color\":\"light_purple\",\"text\":\"Daily Bonus\"}"
+						"minecraft:lore": ["\"Thanks for playing!\""]
+					}
+					id: "ftbquests:lootcrate"
+				}
+				id: "7C8A09A64A115EE2"
+				permission_level: 4
+				team_reward: false
+				type: "command"
+			}]
+			tasks: [{
+				id: "4577FA123CEBB635"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+	]
+}

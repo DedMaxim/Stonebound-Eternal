@@ -1,0 +1,68 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "reset_example"
+	group: "75E98B1240F1480A"
+	id: "03FA0469FD3F2E25"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			id: "1548C01610A4D840"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute positioned 212 64 -149 if entity @p[distance=..2] run tellraw @s {\"text\":\"[Arena] Players detected in the arena!\"}"
+				id: "60083CD1B2925858"
+				permission_level: 4
+				team_reward: false
+				type: "command"
+			}]
+			tasks: [{
+				id: "76ECF9D2F497CF3C"
+				type: "custom"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "237120BED1253A44"
+			rewards: [{
+				auto: "invisible"
+				command: "/execute positioned 212 64 -149 unless entity @a[distance=..2] run setblock 212 64 -149 minecraft:sand"
+				id: "42699232A7B30910"
+				permission_level: 4
+				silent: true
+				team_reward: false
+				type: "command"
+			}]
+			tasks: [{
+				id: "62AD7769170D7AC7"
+				type: "custom"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "174518325B3820B6"
+			rewards: [{
+				auto: "no_toast"
+				command: "/loot replace block 314 68 119 container.0 loot irons_spellbooks:chests/impaled_icebreaker/captain_quarters"
+				id: "508684BC152D3F6C"
+				permission_level: 4
+				silent: true
+				team_reward: false
+				type: "command"
+			}]
+			tasks: [{
+				id: "38B7D6ADF5AC7964"
+				type: "custom"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}
