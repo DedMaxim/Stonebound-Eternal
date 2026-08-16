@@ -1,0 +1,8 @@
+#099 terralith:amethyst_canyon
+#05B minecraft:bamboo_jungle
+#79D terralith:cave/andesite_caves
+#4B0 minecraft:jungle
+#498 minecraft:lush_caves
+#5FF minecraft:river
+#039 terralith:savanna_badlands
+#579 minecraft:windswept_savanna

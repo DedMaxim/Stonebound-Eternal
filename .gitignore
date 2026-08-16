@@ -1,0 +1,16 @@
+ 
+cache/ 
+crash-reports/ 
+debug/ 
+Distant_Horizons_server_data/ 
+dynamic-data-pack-cache/ 
+dynamic-resource-pack-cache/ 
+easy_npc/ 
+journeymap/data/ 
+logs/ 
+saves/ 
+schematics/ 
+screenshots/ 
+twemoji_url_cache/ 
+twemoji-server-cache/ 
+waypoints/ 

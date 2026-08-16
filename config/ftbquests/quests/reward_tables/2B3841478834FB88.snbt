@@ -41,14 +41,14 @@
 			}
 			weight: 8.0f
 		}
-		{ id: "56BD9966D91EAD4A", item: { count: 1, id: "cataclysm:mech_eye" } }
-		{ id: "46F1CFB9638712A3", item: { count: 1, id: "cataclysm:flame_eye" } }
-		{ id: "7D0303A2D1FAAF5A", item: { count: 1, id: "cataclysm:void_eye" } }
-		{ id: "66FAE0DFB2CD8B37", item: { count: 1, id: "cataclysm:monstrous_eye" } }
-		{ id: "3B191DABD5CFF91E", item: { count: 1, id: "cataclysm:abyss_eye" } }
-		{ id: "520FE6F01DDBC90F", item: { count: 1, id: "cataclysm:desert_eye" } }
-		{ id: "5151EE0BB47B2309", item: { count: 1, id: "cataclysm:cursed_eye" } }
-		{ id: "21A6C1EFA7604A31", item: { count: 1, id: "cataclysm:storm_eye" } }
+		{ id: "56BD9966D91EAD4A", item: { components: { "ftbquests:missing_item": "cataclysm:mech_eye" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "46F1CFB9638712A3", item: { components: { "ftbquests:missing_item": "cataclysm:flame_eye" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7D0303A2D1FAAF5A", item: { components: { "ftbquests:missing_item": "cataclysm:void_eye" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "66FAE0DFB2CD8B37", item: { components: { "ftbquests:missing_item": "cataclysm:monstrous_eye" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3B191DABD5CFF91E", item: { components: { "ftbquests:missing_item": "cataclysm:abyss_eye" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "520FE6F01DDBC90F", item: { components: { "ftbquests:missing_item": "cataclysm:desert_eye" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5151EE0BB47B2309", item: { components: { "ftbquests:missing_item": "cataclysm:cursed_eye" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "21A6C1EFA7604A31", item: { components: { "ftbquests:missing_item": "cataclysm:storm_eye" }, count: 1, id: "ftbquests:missing_item" } }
 		{
 			count: 16
 			id: "3692A7CF3ED6CEDC"

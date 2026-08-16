@@ -5,7 +5,10 @@
 	group: "2D72A8722D0CF169"
 	hide_quest_until_deps_complete: true
 	icon: {
-		id: "cataclysm:flame_eye"
+		components: {
+			"ftbquests:missing_item": "cataclysm:flame_eye"
+		}
+		id: "ftbquests:missing_item"
 	}
 	id: "7F3B4C0E51C9685A"
 	images: [ ]
@@ -18,7 +21,10 @@
 			tasks: [{
 				entity: "cataclysm:the_harbinger"
 				icon: {
-					id: "cataclysm:mech_eye"
+					components: {
+						"ftbquests:missing_item": "cataclysm:mech_eye"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "65D503AA750B0006"
 				type: "kill"
@@ -71,7 +77,10 @@
 			tasks: [{
 				entity: "cataclysm:ancient_remnant"
 				icon: {
-					id: "cataclysm:desert_eye"
+					components: {
+						"ftbquests:missing_item": "cataclysm:desert_eye"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "2B0A06F49885425D"
 				type: "kill"
@@ -86,7 +95,10 @@
 			tasks: [{
 				entity: "cataclysm:maledictus"
 				icon: {
-					id: "cataclysm:cursed_eye"
+					components: {
+						"ftbquests:missing_item": "cataclysm:cursed_eye"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "359F8C49A4FC67A9"
 				type: "kill"
@@ -101,7 +113,10 @@
 			tasks: [{
 				entity: "cataclysm:the_leviathan"
 				icon: {
-					id: "cataclysm:abyss_eye"
+					components: {
+						"ftbquests:missing_item": "cataclysm:abyss_eye"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "5E883BC375211BAC"
 				type: "kill"
@@ -116,7 +131,10 @@
 			tasks: [{
 				entity: "cataclysm:scylla"
 				icon: {
-					id: "cataclysm:storm_eye"
+					components: {
+						"ftbquests:missing_item": "cataclysm:storm_eye"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "18B27DB3B01EA98D"
 				type: "kill"
@@ -131,7 +149,10 @@
 			tasks: [{
 				entity: "cataclysm:ignis"
 				icon: {
-					id: "cataclysm:flame_eye"
+					components: {
+						"ftbquests:missing_item": "cataclysm:flame_eye"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "24517B5AC66DBCE6"
 				type: "kill"
@@ -146,7 +167,10 @@
 			tasks: [{
 				entity: "cataclysm:netherite_monstrosity"
 				icon: {
-					id: "cataclysm:monstrous_eye"
+					components: {
+						"ftbquests:missing_item": "cataclysm:monstrous_eye"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "37BD7414BB629BB1"
 				type: "kill"
@@ -161,7 +185,10 @@
 			tasks: [{
 				entity: "cataclysm:ender_golem"
 				icon: {
-					id: "cataclysm:void_eye"
+					components: {
+						"ftbquests:missing_item": "cataclysm:void_eye"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "752FFBE019D1DB0B"
 				type: "kill"
@@ -191,7 +218,10 @@
 			tasks: [{
 				entity: "cataclysm:amethyst_crab"
 				icon: {
-					id: "cataclysm:blessed_amethyst_crab_meat"
+					components: {
+						"ftbquests:missing_item": "cataclysm:blessed_amethyst_crab_meat"
+					}
+					id: "ftbquests:missing_item"
 				}
 				id: "38BA0ACE2AA3DFF4"
 				type: "kill"

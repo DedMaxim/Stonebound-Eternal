@@ -27,8 +27,11 @@
 			rewards: [{
 				id: "08F98650CE3CE256"
 				item: {
+					components: {
+						"ftbquests:missing_item": "via_romana:charting_map"
+					}
 					count: 1
-					id: "via_romana:charting_map"
+					id: "ftbquests:missing_item"
 				}
 				team_reward: true
 				type: "item"
@@ -123,7 +126,10 @@
 		{
 			dependencies: ["714F8DE881511FCD"]
 			icon: {
-				id: "immersive_melodies:piano"
+				components: {
+					"ftbquests:missing_item": "immersive_melodies:piano"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "08E0B49FEAD6EAE9"
 			rewards: [{
@@ -331,7 +337,10 @@
 		{
 			dependencies: ["714F8DE881511FCD"]
 			icon: {
-				id: "naturescompass:naturescompass"
+				components: {
+					"ftbquests:missing_item": "naturescompass:naturescompass"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "4717E663A1987860"
 			rewards: [{

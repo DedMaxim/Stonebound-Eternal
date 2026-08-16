@@ -1,4 +1,3 @@
-//replacenear 60 lava,water,gravel,tuff,deepslate,stone,sculk,dirt,granite,diorite,andesite,blackstone,magma_block air
 /reload
 /gamemode creative
 /setblock 181 226 -1107 chest
@@ -48,3 +47,4 @@
 /execute as @s run kit give @s kit_daily
 /kit create_from_player_hotbar kit_daily 1d
 /kit create_from_player_hotbar kit_weekly 1w
+/give DedMaxim99 simpletomb:grave_key

@@ -142,8 +142,8 @@ key_key.ftbquests.gui.move_right:key.keyboard.right:
 key_key.ftbquests.gui.player_prefs:key.keyboard.p:CONTROL
 key_key.ftbquests.gui_editor.undo:key.keyboard.z:CONTROL
 key_key.ftbquests.gui_editor.redo:key.keyboard.y:CONTROL
-key_key.ftbquests.gui_editor.select_all:key.keyboard.a:CONTROL
-key_key.ftbquests.gui_editor.select_none:key.keyboard.d:CONTROL
+key_key.ftbquests.gui_editor.select_all:key.keyboard.unknown:
+key_key.ftbquests.gui_editor.select_none:key.keyboard.unknown:
 key_key.ftbquests.gui_editor.delete:key.keyboard.delete:
 key_key.ftbquests.gui_editor.force_delete:key.keyboard.delete:SHIFT
 key_key.ftbquests.gui_editor.toggle_crosshairs:key.keyboard.r:CONTROL

@@ -1,9 +1,0 @@
-{
-	"loader": "amendments:wall_lantern",
-	"support": {
-		"parent": "amendments:block/suppsquared/wall_brass_lantern_2_template",
-		"textures": {
-			"1": "amendments:block/wall_lanterns/suppsquared/brass_lantern"
-		}
-	}
-}

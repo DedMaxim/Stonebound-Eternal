@@ -613,7 +613,10 @@
 			can_repeat: true
 			dependencies: ["714F8DE881511FCD"]
 			icon: {
-				id: "goodending:big_four_leaf_clover"
+				components: {
+					"ftbquests:missing_item": "goodending:big_four_leaf_clover"
+				}
+				id: "ftbquests:missing_item"
 			}
 			id: "1300C4A1D5D64414"
 			rewards: [{

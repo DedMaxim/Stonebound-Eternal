@@ -425,7 +425,7 @@
 				}
 				{
 					id: "5BC316864FC2E68E"
-					item: { count: 1, id: "rechiseledcreate:mechanical_chisel" }
+					item: { components: { "ftbquests:missing_item": "rechiseledcreate:mechanical_chisel" }, count: 1, id: "ftbquests:missing_item" }
 					optional_task: true
 					type: "item"
 				}
@@ -522,7 +522,7 @@
 			}]
 			tasks: [{
 				id: "371ED1349DD9B43E"
-				item: { count: 1, id: "create_hypertube:hypertube_entrance" }
+				item: { components: { "ftbquests:missing_item": "create_hypertube:hypertube_entrance" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: 3.5d

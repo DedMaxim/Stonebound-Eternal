@@ -1,0 +1,2 @@
+#C19A2A littlejoys:dig_spot
+#3F84B7 minecraft:grass_block

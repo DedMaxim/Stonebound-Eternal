@@ -1,0 +1,10 @@
+#Visual settings.
+[visuals]
+	#Name: Better Grass Blocks
+	#Description: Improves the appearance of vanilla grass blocks.
+	#true: enabled; false: disabled.
+	full_grass_block_coverage = true
+	#Name: Lusher Grass
+	#Description: Renders short grass on unobstructed vanilla grass blocks to make grasslands look lusher.
+	#true: enabled; false: disabled.
+	render_grass_tufts = true
