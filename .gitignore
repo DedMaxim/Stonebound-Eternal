@@ -15,3 +15,9 @@ twemoji_url_cache/
 twemoji-server-cache/ 
 waypoints/ 
 assets/ 
+.mixin.out/ 
+cache/ 
+command_history.txt 
+options.txt 
+fancymenu_data/ 
+local/ 
