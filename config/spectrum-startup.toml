@@ -80,7 +80,7 @@ block_sound_volume = 0.5
 #The volume for audio that plays when close to certain ores
 ore_aura_sound_volume = 0.5
 #When empty, enchantments that the player has not unlocked show up with a scattered name. You can use a different name here
-name_for_unrevealed_enchantments = ""
+name_for_unrevealed_enchantments = "§kqwertyuiop asdfghjkl"
 #In vanilla, crits are a flat 50 % damage bonus. Improved Critical increases this damage by additional 50 % per level by default
 improved_critical_extra_damage_multiplier_per_level = 0.25
 #Flat additional damage dealt with each level of the First Strike enchantment
