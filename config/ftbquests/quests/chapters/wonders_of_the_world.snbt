@@ -91,7 +91,7 @@
 				type: "random"
 			}]
 			tasks: [{
-				advancement: "minecraft:nether/explore_nether"
+				advancement: "the_bumblezone:the_queens_desire/journeys_end"
 				criterion: ""
 				id: "65E45A7CB8EDD23B"
 				type: "advancement"
@@ -554,10 +554,7 @@
 		{
 			dependencies: ["714F8DE881511FCD"]
 			icon: {
-				components: {
-					"ftbquests:missing_item": "betterarcheology:creeper_fossil"
-				}
-				id: "ftbquests:missing_item"
+				id: "betterarcheology:creeper_fossil"
 			}
 			id: "3B31192AC6B581DC"
 			rewards: [{
@@ -569,39 +566,39 @@
 			tasks: [
 				{
 					id: "55FAB70B59F10DA0"
-					item: { components: { "ftbquests:missing_item": "betterarcheology:creeper_fossil" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "betterarcheology:creeper_fossil" }
 					optional_task: true
 					type: "item"
 				}
 				{
 					id: "0EF7EC60FF09628E"
-					item: { components: { "ftbquests:missing_item": "betterarcheology:villager_fossil" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "betterarcheology:villager_fossil" }
 					optional_task: true
 					type: "item"
 				}
 				{
 					id: "28BA3CF99D45AEB1"
-					item: { components: { "ftbquests:missing_item": "betterarcheology:chicken_fossil" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "betterarcheology:chicken_fossil" }
 					type: "item"
 				}
 				{
 					id: "05EA878C33A5E2B6"
-					item: { components: { "ftbquests:missing_item": "betterarcheology:ocelot_fossil" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "betterarcheology:ocelot_fossil" }
 					type: "item"
 				}
 				{
 					id: "430E53BAF3990D79"
-					item: { components: { "ftbquests:missing_item": "betterarcheology:wolf_fossil" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "betterarcheology:wolf_fossil" }
 					type: "item"
 				}
 				{
 					id: "5811643081BC1655"
-					item: { components: { "ftbquests:missing_item": "betterarcheology:sheep_fossil" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "betterarcheology:sheep_fossil" }
 					type: "item"
 				}
 				{
 					id: "369E14FBF6C69C64"
-					item: { components: { "ftbquests:missing_item": "betterarcheology:guardian_fossil" }, count: 1, id: "ftbquests:missing_item" }
+					item: { count: 1, id: "betterarcheology:guardian_fossil" }
 					type: "item"
 				}
 			]

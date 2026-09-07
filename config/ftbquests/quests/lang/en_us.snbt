@@ -82,7 +82,7 @@
 		""
 		" - Second, they're used in late-game crafting of powerful items. Check out what you can make with them by hovering the mouse cursor over a coin and pressing U"
 	]
-	quest.11577FAAFB1AD9C0.title: "Visit every biome in the Nether"
+	quest.11577FAAFB1AD9C0.title: "Complete all Queen's Desire advancements"
 	quest.120E72B0355F66BA.quest_desc: [
 		"    This chapter is for &d&oyour custom events&r! Make a race, a maze, a treasure hunt, a quest, anything - make it an enjoyable time for you and your friends on the server! You get a lot of tools provided by a variety of mods and you can ask administrators for additional help setting up quests, NPCs and such."
 		""
@@ -184,7 +184,7 @@
 	quest.1DF788B0F2A784D8.quest_desc: [
 		"    For now, there are no special rules on Stonebound Eternal. Only general Stonebound rules apply, which you can find here:"
 		""
-		"https://www.stonebound.net/topic/2/rules"
+		"[ { \"text\": \"https://www.stonebound.net/topic/2/rules\", \"underlined\": true, \"clickEvent\": { \"action\": \"open_url\", \"value\": \"https://www.stonebound.net/topic/2/rules\" } } ]"
 	]
 	quest.1F37B0DF10A50F94.quest_desc: ["    Especially if you're playing on a server, beware of night and dark places as that's where mobs appear, which want to kill you! You need a shelter for night or a bed to skip the night - you should make this your number 1 priority"]
 	quest.1F4AE0CA68F1DBD7.title: "First Strike Book"
@@ -296,7 +296,7 @@
 		"&lQuests&r - &bDedMaxim99&r"
 		"&lQuests&r - &bKH3_Kairi&r"
 		"&lArtist&r - &bHASKO&r"
-		"&lGod&r - &bPhit&r"
+		"&lHosting Owner&r - &bPhit&r"
 		""
 		"&lMice On Venus but make it *E X T R A* nostalgic&r - &bEMBRR&r"
 		"&lOriginal Mice On Venus&r - &bC418&r"
@@ -393,7 +393,6 @@
 		"- The Millstone has various recipes that are more efficient than hand crafting"
 	]
 	quest.6C93575278055936.title: "Crafting Blocks"
-	quest.6EA6A7C53E526B8C.quest_subtitle: "The Biomes O' Plenty one"
 	quest.6EA6A7C53E526B8C.title: "Where it all started"
 	quest.7081CFCFE6D86858.quest_desc: [
 		"    Schematics allow you to paste a preset design into the world, provided you have the materials for it. This is especially useful for copy-pasting the same design over and over again."
@@ -500,6 +499,7 @@
 	task.6E6E34FAF61B936C.title: "100%"
 	task.6F47997AF560EDE6.title: "Any #minecraft:beds"
 	task.715D2B9C8D23166B.title: "Roads"
+	task.72518E71FC15D48B.title: "Visit Alpha Islands"
 	task.737776936E6A6676.title: "Wooden compass"
 	task.752FFBE019D1DB0B.title: "Kill The Ender Golem"
 	task.76ECF9D2F497CF3C.title: "players detect"

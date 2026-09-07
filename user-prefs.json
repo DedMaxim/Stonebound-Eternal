@@ -834,6 +834,10 @@
         "isSelected": true
       },
       {
+        "path": "config\\attributefix\\spectrum\\loot_chance_multiplier.json",
+        "isSelected": true
+      },
+      {
         "path": "config\\attributefix\\spectrum\\mental_presence.json",
         "isSelected": true
       },
@@ -3666,6 +3670,14 @@
         "isSelected": true
       },
       {
+        "path": "config\\jei\\world\\server",
+        "isSelected": true
+      },
+      {
+        "path": "config\\jei\\world\\server\\Stonebound_Server_d6e7a79",
+        "isSelected": true
+      },
+      {
         "path": "config\\jei-server.toml",
         "isSelected": true
       },
@@ -4111,6 +4123,10 @@
       },
       {
         "path": "config\\sparsestructures.json5",
+        "isSelected": true
+      },
+      {
+        "path": "config\\spectrum-startup-1.toml.bak",
         "isSelected": true
       },
       {
@@ -4594,6 +4610,18 @@
         "isSelected": false
       },
       {
+        "path": "Distant_Horizons_server_data\\Stonebound+Server",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data\\Stonebound+Server\\k89lbu17f6v6s@minecraft@@overworld",
+        "isSelected": false
+      },
+      {
+        "path": "Distant_Horizons_server_data\\Stonebound+Server\\k89lbu17f6v6s@minecraft@@overworld\\DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
         "path": "downloads",
         "isSelected": false
       },
@@ -4702,67 +4730,11 @@
         "isSelected": false
       },
       {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_10.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_12.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_14.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_16.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_18.json",
-        "isSelected": false
-      },
-      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_2.json",
         "isSelected": false
       },
       {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_20.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_22.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_24.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_26.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_28.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_30.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_32.json",
-        "isSelected": false
-      },
-      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_4.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_6.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_fruit_basket_8.json",
         "isSelected": false
       },
       {
@@ -4870,79 +4842,7 @@
         "isSelected": false
       },
       {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_32.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_33.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_34.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_35.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_36.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_37.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_38.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_39.json",
-        "isSelected": false
-      },
-      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_4.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_40.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_41.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_42.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_43.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_44.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_45.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_46.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_47.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_48.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_49.json",
         "isSelected": false
       },
       {
@@ -4950,75 +4850,7 @@
         "isSelected": false
       },
       {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_50.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_51.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_52.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_53.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_54.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_55.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_56.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_58.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_59.json",
-        "isSelected": false
-      },
-      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_6.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_60.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_61.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_62.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_63.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_64.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_65.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_66.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_67.json",
         "isSelected": false
       },
       {
@@ -5031,14 +4863,6 @@
       },
       {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\cookingforblockheads_spice_rack_9.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_acacia_cabinet_0.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_bamboo_cabinet_0.json",
         "isSelected": false
       },
       {
@@ -5058,146 +4882,6 @@
         "isSelected": false
       },
       {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_10.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_12.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_14.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_16.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_18.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_2.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_20.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_22.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_24.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_26.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_28.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_30.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_32.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_34.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_36.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_38.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_4.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_40.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_42.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_44.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_46.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_48.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_50.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_52.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_54.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_56.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_58.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_6.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_60.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_62.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_64.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_66.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_68.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_70.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_cutting_board_8.json",
-        "isSelected": false
-      },
-      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_dark_oak_cabinet_0.json",
         "isSelected": false
       },
@@ -5206,7 +4890,15 @@
         "isSelected": false
       },
       {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_mangrove_cabinet_0.json",
+        "isSelected": false
+      },
+      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_oak_cabinet_0.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\farmersdelight_spruce_cabinet_0.json",
         "isSelected": false
       },
       {
@@ -5618,14 +5310,6 @@
         "isSelected": false
       },
       {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_cherry_cupboard_0.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_cherry_desk_0.json",
-        "isSelected": false
-      },
-      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_cherry_dining_bench_0.json",
         "isSelected": false
       },
@@ -5634,27 +5318,11 @@
         "isSelected": false
       },
       {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_cherry_drawer_0.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_cherry_nightstand_0.json",
-        "isSelected": false
-      },
-      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_cherry_pillar_trim_0.json",
         "isSelected": false
       },
       {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_cherry_pillar_trim_1.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_cherry_shelf_0.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_cherry_side_table_0.json",
         "isSelected": false
       },
       {
@@ -6118,6 +5786,238 @@
         "isSelected": false
       },
       {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_10.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_11.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_12.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_13.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_14.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_15.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_16.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_17.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_18.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_19.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_2.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_20.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_21.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_22.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_23.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_24.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_25.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_26.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_27.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_28.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_29.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_3.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_30.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_31.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_32.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_33.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_34.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_35.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_36.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_37.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_38.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_39.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_4.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_40.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_41.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_42.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_43.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_44.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_45.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_46.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_47.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_48.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_49.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_5.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_50.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_51.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_52.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_53.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_54.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_55.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_56.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_57.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_58.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_59.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_6.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_7.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_8.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_bowl_9.json",
+        "isSelected": false
+      },
+      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_crockery_combo_0.json",
         "isSelected": false
       },
@@ -6459,6 +6359,22 @@
       },
       {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_plate_31.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_plate_32.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_plate_33.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_plate_34.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\handcrafted_wood_plate_35.json",
         "isSelected": false
       },
       {
@@ -7206,15 +7122,15 @@
         "isSelected": false
       },
       {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\mcwfences_wooden_cheval_de_frise_49.json",
+        "isSelected": false
+      },
+      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\mcwfences_wooden_cheval_de_frise_50.json",
         "isSelected": false
       },
       {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\mcwfences_wooden_cheval_de_frise_52.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\mcwfences_wooden_cheval_de_frise_53.json",
         "isSelected": false
       },
       {
@@ -9866,6 +9782,10 @@
         "isSelected": false
       },
       {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\mcwwindows_jungle_shutter_0.json",
+        "isSelected": false
+      },
+      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\mcwwindows_mangrove_blinds_0.json",
         "isSelected": false
       },
@@ -9903,6 +9823,10 @@
       },
       {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\mcwwindows_mangrove_plank_parapet_1.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\mcwwindows_mangrove_shutter_0.json",
         "isSelected": false
       },
       {
@@ -9987,6 +9911,10 @@
       },
       {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\mcwwindows_spruce_plank_parapet_1.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\mcwwindows_spruce_shutter_0.json",
         "isSelected": false
       },
       {
@@ -10562,6 +10490,10 @@
         "isSelected": false
       },
       {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_barrel_30.json",
+        "isSelected": false
+      },
+      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_barrel_4.json",
         "isSelected": false
       },
@@ -10802,7 +10734,63 @@
         "isSelected": false
       },
       {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_46.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_47.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_48.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_49.json",
+        "isSelected": false
+      },
+      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_5.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_50.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_51.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_52.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_53.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_54.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_55.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_56.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_57.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_58.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_59.json",
         "isSelected": false
       },
       {
@@ -10810,7 +10798,63 @@
         "isSelected": false
       },
       {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_60.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_61.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_62.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_63.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_64.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_65.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_66.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_67.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_68.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_69.json",
+        "isSelected": false
+      },
+      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_7.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_70.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_71.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_72.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_bowl_73.json",
         "isSelected": false
       },
       {
@@ -10831,10 +10875,6 @@
       },
       {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_cherry_button_1.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_cherry_chest_boat_0.json",
         "isSelected": false
       },
       {
@@ -10918,10 +10958,6 @@
         "isSelected": false
       },
       {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chest_22.json",
-        "isSelected": false
-      },
-      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chest_4.json",
         "isSelected": false
       },
@@ -10982,11 +11018,83 @@
         "isSelected": false
       },
       {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_30.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_32.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_34.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_36.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_38.json",
+        "isSelected": false
+      },
+      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_4.json",
         "isSelected": false
       },
       {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_40.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_42.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_44.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_46.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_48.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_50.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_52.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_54.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_56.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_58.json",
+        "isSelected": false
+      },
+      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_6.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_60.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_62.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_chiseled_bookshelf_64.json",
         "isSelected": false
       },
       {
@@ -10995,6 +11103,130 @@
       },
       {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_0.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_10.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_12.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_14.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_16.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_18.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_2.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_20.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_22.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_24.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_26.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_28.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_30.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_32.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_34.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_36.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_38.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_4.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_40.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_42.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_43.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_44.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_46.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_48.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_50.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_52.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_54.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_56.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_58.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_6.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_60.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_composter_8.json",
         "isSelected": false
       },
       {
@@ -11011,6 +11243,10 @@
       },
       {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_14.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_15.json",
         "isSelected": false
       },
       {
@@ -11082,43 +11318,11 @@
         "isSelected": false
       },
       {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_45.json",
-        "isSelected": false
-      },
-      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_46.json",
         "isSelected": false
       },
       {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_48.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_50.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_52.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_54.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_56.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_58.json",
-        "isSelected": false
-      },
-      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_6.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_crafting_table_60.json",
         "isSelected": false
       },
       {
@@ -11578,143 +11782,135 @@
         "isSelected": false
       },
       {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_10.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_12.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_14.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_16.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_18.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_2.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_20.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_22.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_24.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_26.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_28.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_30.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_32.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_34.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_36.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_38.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_4.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_40.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_42.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_44.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_46.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_48.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_50.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_52.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_54.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_56.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_58.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_6.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_60.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_62.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_64.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_axe_8.json",
+        "isSelected": false
+      },
+      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_0.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_10.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_12.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_14.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_16.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_18.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_2.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_20.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_22.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_24.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_26.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_28.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_30.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_32.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_34.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_36.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_38.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_4.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_40.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_42.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_44.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_46.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_48.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_50.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_51.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_52.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_54.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_56.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_58.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_6.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_60.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_62.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_64.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_66.json",
-        "isSelected": false
-      },
-      {
-        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_hoe_8.json",
         "isSelected": false
       },
       {
@@ -11822,7 +12018,19 @@
         "isSelected": false
       },
       {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_pickaxe_56.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_pickaxe_58.json",
+        "isSelected": false
+      },
+      {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_pickaxe_6.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_pickaxe_60.json",
         "isSelected": false
       },
       {
@@ -11831,6 +12039,106 @@
       },
       {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_0.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_10.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_12.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_14.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_15.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_16.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_18.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_2.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_20.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_22.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_24.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_26.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_28.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_30.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_32.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_34.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_36.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_38.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_4.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_40.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_42.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_44.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_45.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_46.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_6.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\minecraft_wooden_shovel_8.json",
         "isSelected": false
       },
       {
@@ -13743,6 +14051,50 @@
       },
       {
         "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_4.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_40.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_41.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_42.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_44.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_46.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_48.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_50.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_52.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_54.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_56.json",
+        "isSelected": false
+      },
+      {
+        "path": "dynamic-data-pack-cache\\sawmill-sawmill_recipes\\data\\sawmill\\recipe\\starcatcher_display_58.json",
         "isSelected": false
       },
       {
@@ -18682,6 +19034,18 @@
         "isSelected": false
       },
       {
+        "path": "easy_npc\\backup\\2026-08-30",
+        "isSelected": false
+      },
+      {
+        "path": "easy_npc\\backup\\2026-09-04",
+        "isSelected": false
+      },
+      {
+        "path": "easy_npc\\backup\\2026-09-08",
+        "isSelected": false
+      },
+      {
         "path": "easy_npc\\cache",
         "isSelected": false
       },
@@ -18978,6 +19342,158 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\mp\\offline\\waypoints\\backup",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\offline\\waypoints\\backup\\2026-09-08",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\offline\\waypoints\\backup\\2026-09-08\\WaypointData_backup_09-08-2026_00-46-35.dat",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\offline\\waypoints\\WaypointData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server\\.legacy_cache_cleaned",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server\\overworld",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server\\overworld\\chunk_cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server\\overworld\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server\\waypoints",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server\\waypoints\\backup",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server\\waypoints\\backup\\2026-08-30",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server\\waypoints\\backup\\2026-08-30\\WaypointData_backup_08-30-2026_23-43-10.dat",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server\\waypoints\\WaypointData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\.legacy_cache_cleaned",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\biome",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\biome\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\biome\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\biome\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\chunk_cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\chunk_cache\\c.-1.-1.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\chunk_cache\\c.0.-1.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\chunk_cache\\c.0.0.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\day\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\day\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\day\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\night\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\night\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\night\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\topo",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\topo\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\topo\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\overworld\\topo\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\mp\\Stonebound~Server_0254147e~fe13~40e7~9830~7703415756bc\\waypoints",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp",
         "isSelected": false
       },
@@ -19002,11 +19518,19 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-1\\-1,-2.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\minecraft\\overworld\\-1\\-1,0.png",
         "isSelected": false
       },
       {
         "path": "journeymap\\data\\sp\\minecraft\\overworld\\-1\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-1\\0,-2.png",
         "isSelected": false
       },
       {
@@ -19022,11 +19546,19 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-2\\-1,-2.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\minecraft\\overworld\\-2\\-1,0.png",
         "isSelected": false
       },
       {
         "path": "journeymap\\data\\sp\\minecraft\\overworld\\-2\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-2\\0,-2.png",
         "isSelected": false
       },
       {
@@ -19042,6 +19574,10 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-3\\-1,-2.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\minecraft\\overworld\\-3\\-1,0.png",
         "isSelected": false
       },
@@ -19050,7 +19586,39 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-3\\0,-2.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\minecraft\\overworld\\-3\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-4",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-4\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-4\\-1,-2.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-4\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-4\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-4\\0,-2.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\-4\\0,0.png",
         "isSelected": false
       },
       {
@@ -19150,7 +19718,23 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\2\\-1,-1.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\minecraft\\overworld\\2\\-1,-3.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\2\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\2\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\2\\0,0.png",
         "isSelected": false
       },
       {
@@ -19234,6 +19818,10 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\4\\-1,-1.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\minecraft\\overworld\\4\\-1,0.png",
         "isSelected": false
       },
@@ -19278,6 +19866,10 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\4\\0,-1.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\minecraft\\overworld\\4\\0,0.png",
         "isSelected": false
       },
@@ -19287,6 +19879,14 @@
       },
       {
         "path": "journeymap\\data\\sp\\minecraft\\overworld\\5",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\5\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\5\\-1,0.png",
         "isSelected": false
       },
       {
@@ -19307,6 +19907,14 @@
       },
       {
         "path": "journeymap\\data\\sp\\minecraft\\overworld\\5\\-8,3.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\5\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\overworld\\5\\0,0.png",
         "isSelected": false
       },
       {
@@ -24882,6 +25490,218 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\3",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\3\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\3\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\3\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\3\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\biome",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\biome\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\biome\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\biome\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\biome\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\chunk_cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\chunk_cache\\c.-1.-1.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\chunk_cache\\c.-1.0.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\chunk_cache\\c.0.-1.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\chunk_cache\\c.0.0.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\day\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\day\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\day\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\day\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\night\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\night\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\night\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\night\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\topo",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\topo\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\topo\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\topo\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_end\\topo\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\2",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\2\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\2\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\2\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\2\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\biome",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\biome\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\biome\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\biome\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\biome\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\chunk_cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\chunk_cache\\c.-1.-1.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\chunk_cache\\c.-1.0.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\chunk_cache\\c.0.-1.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\chunk_cache\\c.0.0.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\topo",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\topo\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\topo\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\topo\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\minecraft\\the_nether\\topo\\0,0.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\data\\sp\\minecraft\\waypoints",
         "isSelected": false
       },
@@ -24959,6 +25779,262 @@
       },
       {
         "path": "journeymap\\data\\sp\\New World\\waypoints",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\.legacy_cache_cleaned",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-1\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-2",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-2\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-2\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-2\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-2\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-3",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-3\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-3\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-3\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\-3\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\0\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\1\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\2\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\4",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\4\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\4\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\4\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\4\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\biome\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\chunk_cache",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\chunk_cache\\c.-1.-1.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\chunk_cache\\c.-1.0.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\chunk_cache\\c.0.-1.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\chunk_cache\\c.0.0.jmc",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\day\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\night\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\-1,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\-1,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\0,-1.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\overworld\\topo\\0,0.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\data\\sp\\New World (1)\\waypoints",
         "isSelected": false
       },
       {
@@ -27086,6 +28162,14 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\icon\\entity\\naturalist\\bird_stellers_jay_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\naturalist\\bird_stellers_jay.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\icon\\entity\\naturalist\\bird_tufted_titmouse_outlined.png",
         "isSelected": false
       },
@@ -27110,11 +28194,27 @@
         "isSelected": false
       },
       {
+        "path": "journeymap\\icon\\entity\\naturalist\\blobfish_gray_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\naturalist\\blobfish_gray.png",
+        "isSelected": false
+      },
+      {
         "path": "journeymap\\icon\\entity\\naturalist\\blobfish_pink_outlined.png",
         "isSelected": false
       },
       {
         "path": "journeymap\\icon\\entity\\naturalist\\blobfish_pink.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\naturalist\\boar_baby_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\naturalist\\boar_baby.png",
         "isSelected": false
       },
       {
@@ -27179,6 +28279,14 @@
       },
       {
         "path": "journeymap\\icon\\entity\\naturalist\\butterfly_red_admiral.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\naturalist\\clam_brown_clam_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\naturalist\\clam_brown_clam.png",
         "isSelected": false
       },
       {
@@ -27491,6 +28599,14 @@
       },
       {
         "path": "journeymap\\icon\\entity\\naturalist\\snake_rattle_snake.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\naturalist\\starfish_orange_outlined.png",
+        "isSelected": false
+      },
+      {
+        "path": "journeymap\\icon\\entity\\naturalist\\starfish_orange.png",
         "isSelected": false
       },
       {
@@ -31618,6 +32734,62 @@
         "isSelected": false
       },
       {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_end",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_end\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_end\\0EA5F-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_end\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_end\\0EA60-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_end\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_end\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_nether",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_nether\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_nether\\0EA5F-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_nether\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_nether\\0EA60-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_nether\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\minecraft_the_nether\\waypoints.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\ftbchunks\\data\\820fdb21-1836-478b-b7f2-c9d642c6b5ba\\spectrum_deeper_down",
         "isSelected": false
       },
@@ -31750,6 +32922,50 @@
         "isSelected": false
       },
       {
+        "path": "local\\ftbchunks\\data\\c749218d-b0cb-4cfb-9ef5-048edbdc19df",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\c749218d-b0cb-4cfb-9ef5-048edbdc19df\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\c749218d-b0cb-4cfb-9ef5-048edbdc19df\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\c749218d-b0cb-4cfb-9ef5-048edbdc19df\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\c749218d-b0cb-4cfb-9ef5-048edbdc19df\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\c749218d-b0cb-4cfb-9ef5-048edbdc19df\\minecraft_overworld\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\c749218d-b0cb-4cfb-9ef5-048edbdc19df\\minecraft_overworld\\0EA5F-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\c749218d-b0cb-4cfb-9ef5-048edbdc19df\\minecraft_overworld\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\c749218d-b0cb-4cfb-9ef5-048edbdc19df\\minecraft_overworld\\0EA60-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\c749218d-b0cb-4cfb-9ef5-048edbdc19df\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\c749218d-b0cb-4cfb-9ef5-048edbdc19df\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
         "path": "local\\ftbchunks\\data\\d068b39b-ed23-4e87-97b4-024f80aa254f",
         "isSelected": false
       },
@@ -31791,6 +33007,46 @@
       },
       {
         "path": "local\\ftbchunks\\data\\d068b39b-ed23-4e87-97b4-024f80aa254f\\minecraft_overworld\\waypoints.json",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e6f61c54-0405-4154-80dc-fbc1d1511ffa",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e6f61c54-0405-4154-80dc-fbc1d1511ffa\\biome_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e6f61c54-0405-4154-80dc-fbc1d1511ffa\\block_map.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e6f61c54-0405-4154-80dc-fbc1d1511ffa\\dimensions.txt",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e6f61c54-0405-4154-80dc-fbc1d1511ffa\\minecraft_overworld",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e6f61c54-0405-4154-80dc-fbc1d1511ffa\\minecraft_overworld\\0EA5F-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e6f61c54-0405-4154-80dc-fbc1d1511ffa\\minecraft_overworld\\0EA60-0EA5F.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e6f61c54-0405-4154-80dc-fbc1d1511ffa\\minecraft_overworld\\0EA60-0EA60.zip",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e6f61c54-0405-4154-80dc-fbc1d1511ffa\\minecraft_overworld\\dimension.regions",
+        "isSelected": false
+      },
+      {
+        "path": "local\\ftbchunks\\data\\e6f61c54-0405-4154-80dc-fbc1d1511ffa\\minecraft_overworld\\waypoints.json",
         "isSelected": false
       },
       {
@@ -32003,6 +33259,50 @@
       },
       {
         "path": "logs\\2026-08-21-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-08-21-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-08-21-7.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-08-30-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-08-30-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-08-30-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-08-30-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-08-31-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-09-04-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-09-04-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-09-07-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2026-09-08-1.log.gz",
         "isSelected": false
       },
       {
@@ -32922,11 +34222,11 @@
         "isSelected": true
       },
       {
-        "path": "mods\\spectrum-1.11.8-1.21.1-neo.jar",
+        "path": "mods\\spectrum-1.12.5-1.21.1-neo.jar",
         "isSelected": true
       },
       {
-        "path": "mods\\SpectrumJEI-21.1.9+neoforge.jar",
+        "path": "mods\\SpectrumJEI-21.1.11.1+neoforge.jar",
         "isSelected": true
       },
       {
@@ -33682,6 +34982,14 @@
         "isSelected": false
       },
       {
+        "path": "saves\\minecraft\\data\\lootr\\5\\5d",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\data\\lootr\\5\\5d\\5d013b8b-f983-40b2-a493-a5777b14548d.dat",
+        "isSelected": false
+      },
+      {
         "path": "saves\\minecraft\\data\\lootr\\5\\5e",
         "isSelected": false
       },
@@ -34370,6 +35678,114 @@
         "isSelected": false
       },
       {
+        "path": "saves\\minecraft\\DIM-1\\entities",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\entities\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\entities\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\entities\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\entities\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\poi",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\poi\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\poi\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\poi\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\poi\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.-1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.-2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM-1\\region\\r.1.1.mca",
+        "isSelected": false
+      },
+      {
         "path": "saves\\minecraft\\DIM1",
         "isSelected": false
       },
@@ -34386,11 +35802,115 @@
         "isSelected": false
       },
       {
+        "path": "saves\\minecraft\\DIM1\\data\\littlejoys.dat",
+        "isSelected": false
+      },
+      {
         "path": "saves\\minecraft\\DIM1\\data\\neoforge_data_attachments.dat",
         "isSelected": false
       },
       {
         "path": "saves\\minecraft\\DIM1\\data\\raids_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\entities",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\entities\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\entities\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\entities\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\entities\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\poi",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\poi\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\poi\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\poi\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\poi\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\poi\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\poi\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.-1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\minecraft\\DIM1\\region\\r.1.1.mca",
         "isSelected": false
       },
       {
@@ -38862,6 +40382,530 @@
         "isSelected": false
       },
       {
+        "path": "saves\\New World (1)",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\advancements",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\advancements\\fd7cca6a-716d-46b6-8ea6-ecf8dbf25f08.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\collective",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\collective\\itemnametranslation.txt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\irons_lib_data.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\JMPlayerSettings.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\journeymap",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\littlejoys.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\lootr",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\lootr\\Lootr-DecayData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\lootr\\Lootr-RefreshData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\modonomicon_book_states.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\neoforge_data_attachments.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\random_sequences.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\scoreboard.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\spectrum_pastel_network_manager.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\tournaments.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\data\\WorldUUID.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\datapacks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM-1\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM-1\\data\\DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM-1\\data\\neoforge_data_attachments.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM-1\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM1\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM1\\data\\DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM1\\data\\neoforge_data_attachments.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\DIM1\\data\\raids_end.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\irons_spellbooks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\irons_spellbooks\\pocket_dimension",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\irons_spellbooks\\pocket_dimension\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\irons_spellbooks\\pocket_dimension\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\irons_spellbooks\\pocket_dimension\\data\\DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\irons_spellbooks\\pocket_dimension\\data\\neoforge_data_attachments.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\irons_spellbooks\\pocket_dimension\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\minecraft",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\minecraft\\server_faucet_test_level",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\minecraft\\server_faucet_test_level\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\minecraft\\server_faucet_test_level\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\minecraft\\server_projectile_test_level",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\minecraft\\server_projectile_test_level\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\minecraft\\server_projectile_test_level\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\spectrum",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\spectrum\\deeper_down",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\spectrum\\deeper_down\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\spectrum\\deeper_down\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\spectrum\\deeper_down\\data\\DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\spectrum\\deeper_down\\data\\neoforge_data_attachments.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\spectrum\\deeper_down\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\the_bumblezone",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\the_bumblezone\\the_bumblezone",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\the_bumblezone\\the_bumblezone\\betterdeserttemples",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\the_bumblezone\\the_bumblezone\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\the_bumblezone\\the_bumblezone\\data\\DistantHorizons.sqlite",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\the_bumblezone\\the_bumblezone\\data\\neoforge_data_attachments.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\dimensions\\the_bumblezone\\the_bumblezone\\data\\raids.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\easy_npc",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\easy_npc\\npcs",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\easy_npc\\preset",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\entities\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbchunks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbchunks\\fd7cca6a-716d-46b6-8ea6-ecf8dbf25f08.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbessentials",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbessentials\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbessentials\\playerdata\\fd7cca6a-716d-46b6-8ea6-ecf8dbf25f08.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbquests",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbquests\\fd7cca6a-716d-46b6-8ea6-ecf8dbf25f08.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams\\ftbteams.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams\\party",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams\\player",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams\\player\\fd7cca6a-716d-46b6-8ea6-ecf8dbf25f08.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\ftbteams\\server",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\icon.png",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\kubejs_persistent_data.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\playerdata\\fd7cca6a-716d-46b6-8ea6-ecf8dbf25f08.cosarmor",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\playerdata\\fd7cca6a-716d-46b6-8ea6-ecf8dbf25f08.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\playerdata\\fd7cca6a-716d-46b6-8ea6-ecf8dbf25f08.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.-1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\poi\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-2.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-2.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.-2.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.0.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\region\\r.1.1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\ftbessentials.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\ftbranks",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\ftbranks\\players.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\ftbranks\\ranks.snbt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\ftbranks\\README.txt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\serverconfig\\readme.txt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\New World (1)\\stats\\fd7cca6a-716d-46b6-8ea6-ecf8dbf25f08.json",
+        "isSelected": false
+      },
+      {
         "path": "schematics",
         "isSelected": false
       },
@@ -38903,6 +40947,14 @@
       },
       {
         "path": "screenshots\\2026-08-19_01.11.33.png",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots\\2026-09-04_04.30.45.png",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots\\2026-09-04_04.31.15.png",
         "isSelected": false
       },
       {

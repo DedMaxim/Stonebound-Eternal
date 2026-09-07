@@ -147,11 +147,8 @@
 		{
 			id: "633A7F314B08C113"
 			item: {
-				components: {
-					"ftbquests:missing_item": "the_bumblezone:buzzing_briefcase"
-				}
 				count: 1
-				id: "ftbquests:missing_item"
+				id: "the_bumblezone:buzzing_briefcase"
 			}
 			weight: 1.5f
 		}

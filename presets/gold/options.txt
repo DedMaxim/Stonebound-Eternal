@@ -208,7 +208,7 @@ key_key.ftbteams.open_gui:key.keyboard.unknown
 key_dsurround.text.keybind.modConfigurationMenu:key.keyboard.equal
 key_dsurround.text.keybind.individualSoundConfig:key.keyboard.unknown
 key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown
-key_key.ftbchunks.map:key.keyboard.m
+key_key.ftbchunks.map:key.keyboard.unknown
 key_key.ftbchunks.toggle_minimap:key.keyboard.unknown
 key_key.ftbchunks.claim_manager:key.keyboard.unknown
 key_key.ftbchunks.minimap.zoomIn:key.keyboard.equal

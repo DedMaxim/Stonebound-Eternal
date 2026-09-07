@@ -2,7 +2,7 @@
   "modpackMode": false,
   "fullScreen": "WINDOWED",
   "disableBorderlessOptimizations": false,
-  "fpsDisplayMode": "ADVANCED",
+  "fpsDisplayMode": "OFF",
   "fpsDisplayAlign": "LEFT",
   "fpsDisplayVAlign": "TOP",
   "fpsDisplaySystemMode": "OFF",

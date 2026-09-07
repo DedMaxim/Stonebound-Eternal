@@ -57,11 +57,8 @@
 			count: 4
 			id: "317DB3FE3A8F51F1"
 			item: {
-				components: {
-					"ftbquests:missing_item": "glassential:glass_ethereal"
-				}
 				count: 1
-				id: "ftbquests:missing_item"
+				id: "glassential:glass_ethereal"
 			}
 			weight: 2.0f
 		}
