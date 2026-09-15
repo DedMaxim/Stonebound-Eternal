@@ -48,7 +48,7 @@ mouseSensitivity:0.5028169014084507
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["serilum_mod_translations","vanilla","fabric","mod_resources","moonlight:merged_pack","file/Midnighttiggers-FCT-Default_1.20_V8.zip","file/Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Medieval_Style_Lootr.zip","file/SmoothDrawers_1.21.1_v3.zip","file/Soft-Weather-1.0-Universal.zip","file/Visual Titles 1.3.zip","file/[1.6] Enhanced Boss Bars.zip","file/cubic-sun-moon-v1.8.5.zip","file/waystones_1.21.1.zip","file/EclecticTrove-1.19.2-1.3.0.zip","file/Enchantment Descriptions 1.2.zip","file/Betta_Click_v1.zip","file/Stonebound Resources.zip"]
+resourcePacks:["serilum_mod_translations","vanilla","fabric","mod_resources","moonlight:merged_pack","file/Midnighttiggers-FCT-Default_1.20_V8.zip","file/Fusion Connected Blocks v1.0.2 for Minecraft 1.20-1.21.8.zip","file/Medieval_Style_Lootr.zip","file/Soft-Weather-1.0-Universal.zip","file/Visual Titles 1.3.zip","file/[1.6] Enhanced Boss Bars.zip","file/cubic-sun-moon-v1.8.5.zip","file/waystones_1.21.1.zip","file/EclecticTrove-1.19.2-1.3.0.zip","file/Enchantment Descriptions 1.2.zip","file/Betta_Click_v1.zip","file/Stonebound Resources.zip"]
 incompatibleResourcePacks:["file/Medieval_Style_Lootr.zip","file/EclecticTrove-1.19.2-1.3.0.zip","file/Enchantment Descriptions 1.2.zip","file/Betta_Click_v1.zip"]
 lastServer:
 lang:en_us

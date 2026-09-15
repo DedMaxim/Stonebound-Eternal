@@ -1,4 +1,5 @@
 {
+	always_invisible: true
 	consume_items: true
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
@@ -214,6 +215,7 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "01A3700CB16F7139"
+			invisible: true
 			rewards: [{
 				id: "30E2D606FE436B57"
 				item: {
@@ -371,6 +373,7 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "6C173B586E3F967B"
+			invisible: true
 			rewards: [{
 				id: "1159CE01EEF506EA"
 				item: {

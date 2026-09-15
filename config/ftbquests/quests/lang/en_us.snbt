@@ -1,39 +1,21 @@
 {
 	chapter.032FC11B9097B3A1.title: "Tips"
-	chapter.03FA0469FD3F2E25.title: "Reset example"
-	chapter.11D1C94D74CDB54E.title: "Reset irons_spellbooks:pyromancer_tower"
-	chapter.1A45948C54B503AF.title: "Reset irons_spellbooks:mangrove_hut"
 	chapter.1C3D786515DD50A9.title: "Welcome"
-	chapter.2357BB6979356064.title: "Reset cataclysm:acropolis"
-	chapter.296E1B19B58A792D.title: "Reset irons_spellbooks:ice_spider_den"
 	chapter.2D89E2CCB7F3CCB2.title: "StoneExpress"
 	chapter.34B63DC89F6F34FA.title: "Wonders of the World"
 	chapter.3636A7BEDD3CB31A.title: "Create"
-	chapter.3666A47FFD0940F1.title: "Reset irons_spellbooks:mountain_tower"
-	chapter.36C248E3AB160EFC.title: "Reset cataclysm:ruined_citadel"
-	chapter.401E46F096002F3F.title: "Reset cataclysm:cursed_pyramid"
-	chapter.40CA99449E817BC7.title: "Reset cataclysm:sunken_city"
-	chapter.42F377281EB00B39.title: "Reset cataclysm:ancient_factory"
-	chapter.4A22CBD0ED96A0BA.title: "Reset cataclysm:amethyst_nest"
 	chapter.4ACEB48E3355B8C4.title: "Minecraft"
 	chapter.4D0CDF0C91D220B5.title: "General"
 	chapter.4E02C195979248A9.title: "About Events"
-	chapter.4E95B62B22D63C02.title: "Reset cataclysm:soul_black_smith"
-	chapter.56DBA9ADC1BE6085.title: "Reset irons_spellbooks:evoker_fort"
 	chapter.57266C6640034DF2.title: "Credits"
 	chapter.65AE411C58E749CC.title: "Daily Dose of Cubes"
-	chapter.66BA7518254D209E.title: "Resets Main"
-	chapter.6D2BD3C252F4C064.title: "Reset irons_spellbooks:impaled_icebreaker"
-	chapter.7AF1323970C7C2B6.title: "Reset cataclysm:frosted_prison"
 	chapter.7F3B4C0E51C9685A.title: "Boss of all Bosses"
-	chapter.7F5EEEAF861DBAE0.title: "Reset cataclysm:burning_arena"
 	chapter_group.227EB7498F32478F.title: "Info"
 	chapter_group.26B8EF2584A68467.title: "Events"
 	chapter_group.2D72A8722D0CF169.title: "Quests"
 	chapter_group.6AB3B520830141E0.title: "Basics"
-	chapter_group.75E98B1240F1480A.title: "Admin"
-	quest.01A3700CB16F7139.title: "Inertia Book"
-	quest.02B6B1CC3329B370.title: "Inventory Insertion Book"
+	quest.01A3700CB16F7139.title: "Mysterious Spectrum Trade"
+	quest.02B6B1CC3329B370.title: "Mysterious Spectrum Trade"
 	quest.02FA287F15E71ABE.quest_desc: [
 		"    &bVia Romana&r is an interesting early-on travel method. It lets you create physical roads that you can fast-travel along."
 		""
@@ -61,7 +43,7 @@
 		"    You can get more information about them from the in-game Ponder System."
 	]
 	quest.05F9D5C0759A119D.title: "Displays"
-	quest.081F6AE06B2948DA.title: "Improved Critical Book"
+	quest.081F6AE06B2948DA.title: "Mysterious Spectrum Trade"
 	quest.08DEFA911AACC466.quest_desc: [
 		"    Create: Hypertubes is inspired by Satisfactory's Hypertubes."
 		""
@@ -78,9 +60,11 @@
 	quest.0CD550ED29492E5C.quest_desc: [
 		"[ \"    In the \", { \"text\": \"weekly reward\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"42DB1F4BD90E0C95\" } }, \" quest you're given 2 Netherite coins per week. But what are they for?\" ]"
 		""
-		" - First, they're used to reset boss arenas. We're playing in a limited world with a goal to last for years. This means resources are limited and players in the future simply won't be able to experience the modpack to its fullest after we run out of rare dungeons. Thus this system got created. You can go to one of reset-able dungeons, pay with Netherite coins and get it reset!"
+		" - They're used in late-game crafting of powerful items. Check out what you can make with them by hovering the mouse cursor over a coin and pressing U"
 		""
-		" - Second, they're used in late-game crafting of powerful items. Check out what you can make with them by hovering the mouse cursor over a coin and pressing U"
+		" - Rare currency you can use to trade with other players"
+		""
+		" - Additional uses may come in the future!"
 	]
 	quest.11577FAAFB1AD9C0.title: "Complete all Queen's Desire advancements"
 	quest.120E72B0355F66BA.quest_desc: [
@@ -133,7 +117,7 @@
 		" - Any additional notes and comments you think the player will need"
 	]
 	quest.120E72B0355F66BA.quest_subtitle: "Read this, it's important"
-	quest.1300C4A1D5D64414.title: "Clovers' Favor Book"
+	quest.1300C4A1D5D64414.title: "Mysterious Spectrum Trade"
 	quest.13341ADA17A7253A.quest_desc: [
 		"    The Boiler is a multiblock Stress generator. Each engine attached to it can output up to 16,384 SU."
 		""
@@ -144,8 +128,8 @@
 		"    If you want to know how to make a Steam Engine, either the in-game Ponder System or YouTube is a great place to start, as there are plenty of videos around."
 	]
 	quest.13341ADA17A7253A.title: "Boiler"
-	quest.1620BFFDCE7FB142.title: "Big Catch Book"
-	quest.1673746D9F0B7A95.title: "Tight Grip Book"
+	quest.1620BFFDCE7FB142.title: "Mysterious Spectrum Trade"
+	quest.1673746D9F0B7A95.title: "Mysterious Spectrum Trade"
 	quest.1697E79071D7D690.title: "Get overdosed by every effect"
 	quest.1870479C29DF7BDE.quest_desc: [
 		"    It moves stuff."
@@ -176,10 +160,11 @@
 		"- Crafting Blocks"
 		"- Transfer Blocks"
 	]
-	quest.1C25E5317EF9809E.title: "Foundry Book"
+	quest.1C25E5317EF9809E.title: "Mysterious Spectrum Trade"
 	quest.1C26F8F7B1D1E683.quest_desc: ["    The Crushing Wheels are an advanced version of the Millstone, with additional recipes like cobblestone to gravel, and gravel to sand."]
 	quest.1C26F8F7B1D1E683.title: "Circles in Minecraft"
 	quest.1C2EF64C1D0FDC7B.title: "BFF <3"
+	quest.1C607EFEFCA6BE72.quest_desc: ["    If you're wearing &eLether Boots&r or any other boots with &eFeather Falling&r enchantment, you no longer trample farmland when you jump on it"]
 	quest.1D852285B1EA0745.quest_desc: ["    While playing modded Minecraft it is quite usual to see the FPS decrease over time. Big part of this lag comes from &centities&r. Entities are heavily used by mods even if you don't realize it. Obvious ones are animals, creatures and mobs. Others are chests, cogs, shafts and such. And some are even less noticeable like projectiles in magic mods or some visual elements of animations or builds. This lag, however, can greatly be reduced by the &bEntity Culling&r mod. If you simply place a wall between you and those laggy entities, they'll stop rendering, which will increase your FPS. It's not as pretty as having a fully open setup but it at least lets you play the game"]
 	quest.1DF788B0F2A784D8.quest_desc: [
 		"    For now, there are no special rules on Stonebound Eternal. Only general Stonebound rules apply, which you can find here:"
@@ -187,7 +172,7 @@
 		"[ { \"text\": \"https://www.stonebound.net/topic/2/rules\", \"underlined\": true, \"clickEvent\": { \"action\": \"open_url\", \"value\": \"https://www.stonebound.net/topic/2/rules\" } } ]"
 	]
 	quest.1F37B0DF10A50F94.quest_desc: ["    Especially if you're playing on a server, beware of night and dark places as that's where mobs appear, which want to kill you! You need a shelter for night or a bed to skip the night - you should make this your number 1 priority"]
-	quest.1F4AE0CA68F1DBD7.title: "First Strike Book"
+	quest.1F4AE0CA68F1DBD7.title: "Mysterious Spectrum Trade"
 	quest.204C307F8FCC25E0.quest_desc: [
 		"    All quests linked to this one depict various mechanics within the Create mod, but are too complicated to explain briefly or are outside of a normal playthrough. Please read the description of each quest if you wish to know more."
 		""
@@ -215,7 +200,7 @@
 		"    After that, open your inventory with E and put wood in the crafting grid - this will make planks. Put 4 planks in the crafting grid and you got a &6CRAFTING TABLE&r!"
 	]
 	quest.27D8C002D966D381.title: "Punch tree"
-	quest.28C92882764D18AA.title: "Resonance Book"
+	quest.28C92882764D18AA.title: "Mysterious Spectrum Trade"
 	quest.2C0B6968FA8560C5.quest_desc: ["    Clicking this button will complete this whole chapter. You can do it to just skip it if you're an experienced player and don't need a basic game tutorial. &cThis action cannot be undone!&r"]
 	quest.2C0B6968FA8560C5.title: "Complete Chapter Instantly"
 	quest.2ED1C8BD98F9D342.quest_desc: [
@@ -230,7 +215,7 @@
 	]
 	quest.31408D23324547E8.quest_desc: ["    Video recording and streaming is generally allowed on Stonebound however since there's voicechat, I'll explicitly say that any moment any player could be recording or streaming their screen. So, please, keep it in mind. Don't say your private information out loud and don't get anyone in trouble for breaking TOS"]
 	quest.3144C120A4401B72.quest_desc: ["    &bSimple Voice Chat&r adds voice chat functionality and allows you to talk to other players on the server. Just press &aV&r to set it up and follow steps there!"]
-	quest.318D25E236D0153A.title: "Exuberance Book"
+	quest.318D25E236D0153A.title: "Mysterious Spectrum Trade"
 	quest.324F63FF16F678B9.quest_desc: [
 		"    &l1&r. &6It's difficult to hit mobs but they can hit me. What's up with that?&r"
 		"    If you have difficulties with mobs' positioning, disable all Fresh Animations resource packs."
@@ -288,7 +273,7 @@
 	quest.411C5E4122A0E4B4.title: "Get a revenge on those creepers!"
 	quest.42DB1F4BD90E0C95.quest_subtitle: "Hope to see you again next week!"
 	quest.42DB1F4BD90E0C95.title: "Weekly Reward"
-	quest.46C8B6BE3D45D192.title: "Indestructible Book"
+	quest.46C8B6BE3D45D192.title: "Mysterious Spectrum Trade"
 	quest.4717E663A1987860.quest_desc: ["    &bNature's Compass&r allows to locate biomes. I recommend to make it early on while choosing a place to live, so you can find the biome you want"]
 	quest.49E7E1A58C04957D.title: "The Art of the Deal"
 	quest.4A1B9076E6F67AFF.quest_desc: [
@@ -332,7 +317,7 @@
 		"    Copycat+ is in this pack, so we also have additional Copycat Blocks available."
 	]
 	quest.5C99534D20FCEEF0.title: "Empty Blocks"
-	quest.5DF18225E954ABF3.title: "Curse of the Void Book"
+	quest.5DF18225E954ABF3.title: "Mysterious Spectrum Trade"
 	quest.5F5735C8F2D3F665.quest_desc: [
 		"    The Hose Pulley allows you to pump up any liquids below it into pipes or a tank, provided the hose has been lowered down using the shaft connection opposite to the pipe connection."
 		""
@@ -355,7 +340,7 @@
 		"    Then there is Sequenced Assembly; items made through this sometimes require multiple passes to create."
 	]
 	quest.61CBD0FA93E5B5F8.title: "Deployer"
-	quest.62542DA53E5EA7C2.title: "Pest Control Book"
+	quest.62542DA53E5EA7C2.title: "Mysterious Spectrum Trade"
 	quest.63AEBDF596BB8911.quest_desc: [
 		"    Now I need you to make a wooden pickaxe! But unlike last time I'm not telling you how to make it. But I will tell you how to know how to make &lANYTHING&r!"
 		""
@@ -365,7 +350,7 @@
 		"    Some more tips. You can hover over any item anywhere and press &9&lR&r to see its recipes. You can even view recipes of items inside of recipes. Additionally, you can hover over an item and press &9&lU&r to see what uses that item has!"
 	]
 	quest.63AEBDF596BB8911.title: "But how do I make it?"
-	quest.649477E80340AE5A.title: "Razing Book"
+	quest.649477E80340AE5A.title: "Mysterious Spectrum Trade"
 	quest.653066A2CEE86C80.quest_desc: ["    Train Tracks are made in Sequenced Assembly, and are used to support and direct trains."]
 	quest.653066A2CEE86C80.title: "De Wei"
 	quest.665D7A5805F64136.quest_desc: [
@@ -374,8 +359,8 @@
 		"    The Mechanical Saw counts as both a Contraption Block and a Crafting Block."
 	]
 	quest.665D7A5805F64136.title: "Contraption Blocks"
-	quest.6A71C3416ED92670.title: "Steadfast Book"
-	quest.6C173B586E3F967B.title: "Inexorable Book"
+	quest.6A71C3416ED92670.title: "Mysterious Spectrum Trade"
+	quest.6C173B586E3F967B.title: "Mysterious Spectrum Trade"
 	quest.6C4CE163074ED46B.quest_desc: [
 		"    Trains are contraptions that travel on Train Tracks and are comprised of carriages carried on either one or two bogeys."
 		""
@@ -422,7 +407,7 @@
 	quest.7568A35B8AB671A1.quest_desc: ["    Train Casings are used to make the various train-related blocks and are used directly to create trains."]
 	quest.7568A35B8AB671A1.title: "Training"
 	quest.773D2B3B04CAE5D6.title: "Find a Diamond"
-	quest.78B1C0AB1EDA7309.title: "Serendipity Reel Book"
+	quest.78B1C0AB1EDA7309.title: "Mysterious Spectrum Trade"
 	quest.79F4855A730EE548.quest_desc: [
 		"    Andesite Alloy is your core crafting component in Create. It is used to make the most-used items the mod provides, and will be needed for the rest of your playthrough."
 		""
@@ -442,8 +427,8 @@
 		""
 		"    You can also view these biomes by looking up recipes of ores in JEI"
 	]
-	quest.7EA3B7AD7C04BC98.title: "Treasure Hunter Book"
-	quest.7F8122ABE5495BD9.title: "Sniping Book"
+	quest.7EA3B7AD7C04BC98.title: "Mysterious Spectrum Trade"
+	quest.7F8122ABE5495BD9.title: "Mysterious Spectrum Trade"
 	reward.68BC8310CB705D49.title: "2x Netherite Coin"
 	reward.7C8A09A64A115EE2.title: "Daily Bonus"
 	reward_table.263BE0855C0B2F57.title: "Small Reward"
@@ -474,7 +459,6 @@
 	task.3636141D3EFA36C3.title: "Black gold"
 	task.37BD7414BB629BB1.title: "Kill The Netherite Monstrosity"
 	task.37E3FB0D0D29F116.title: "The ability to see"
-	task.38B7D6ADF5AC7964.title: "reset loot"
 	task.38BA0ACE2AA3DFF4.title: "Kill The Amethyst Crab"
 	task.3AC0521DD373F971.title: "Credits"
 	task.3F88C777BF7ACA2A.title: "What is this place, Filled with so many wonders?"
@@ -487,7 +471,6 @@
 	task.5CF553B76D48A876.title: "Functional Blocks - Andesite"
 	task.5E883BC375211BAC.title: "Kill The Leviathan"
 	task.611658460B4D5CB3.title: "Kill The Ender Dragon"
-	task.62AD7769170D7AC7.title: "block set"
 	task.63DFAA00CB6B00A7.title: "Kill The Warden"
 	task.64E02546475DCCF8.title: "Is this thing on?"
 	task.65D503AA750B0006.title: "Kill The Harbinger"
@@ -500,9 +483,9 @@
 	task.6F47997AF560EDE6.title: "Any #minecraft:beds"
 	task.715D2B9C8D23166B.title: "Roads"
 	task.72518E71FC15D48B.title: "Visit Alpha Islands"
+	task.73500CF54C8CD321.title: "Don't walk on my flowers"
 	task.737776936E6A6676.title: "Wooden compass"
 	task.752FFBE019D1DB0B.title: "Kill The Ender Golem"
-	task.76ECF9D2F497CF3C.title: "players detect"
 	task.770B88E8DC0C3E9C.title: "READ BEFORE CLICKING"
 	task.777621EF4C5ADED2.title: "Perfect place"
 	task.7FC6305AB658B320.title: "Recording"

@@ -374,7 +374,31 @@
 				type: "checkmark"
 			}]
 			x: 0.0d
-			y: -3.125d
+			y: -3.0d
+		}
+		{
+			dependencies: ["714F8DE881511FCD"]
+			icon: {
+				id: "minecraft:farmland"
+			}
+			id: "1C607EFEFCA6BE72"
+			rewards: [{
+				id: "0131F684E33CFF79"
+				item: {
+					count: 1
+					id: "farmersdelight:sweet_berry_cookie"
+				}
+				team_reward: false
+				type: "item"
+			}]
+			shape: "square"
+			size: 1.0d
+			tasks: [{
+				id: "73500CF54C8CD321"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -3.0d
 		}
 	]
 }
