@@ -22,7 +22,7 @@
 	#The distance fishing spots will spawn from the player.
 	spawnDistance = 8
 	#The seconds that must pass after a fishing spot appeared before another fishing spot can appear for a player.
-	spawnIntervalSeconds = 1800.0
+	spawnIntervalSeconds = 3600.0
 	#The seconds that must pass after fishing a fishing spot before another fishing spot can appear for a player.
 	afterFishingCooldownSeconds = 3600.0
 	#The maximum distance a bobber can be from a fishing spot to still trigger it.

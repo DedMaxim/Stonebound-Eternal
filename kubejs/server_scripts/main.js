@@ -80,6 +80,7 @@ ServerEvents.recipes(event => {
 	event.remove({ id: 'spectrum:pedestal/tier2/vanilla/elytra' })
 	
 	
+	event.remove({ output: 'sophisticatedcore:ender_linker' })
 	/*event.remove({ output: 'sophisticatedstorage:chest' })
 	event.remove({ output: 'sophisticatedstorage:copper_chest' })
 	event.remove({ output: 'sophisticatedstorage:iron_chest' })
@@ -94,6 +95,21 @@ ServerEvents.recipes(event => {
 	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_4' })
 	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_5' })
 	event.remove({ output: 'sophisticatedstorage:stack_upgrade_omega_tier' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_1_to_tier_1_plus_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_1_to_tier_2_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_1_to_tier_3_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_1_to_tier_4_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_1_to_tier_5_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_1_plus_to_tier_2_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_1_plus_to_tier_3_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_1_plus_to_tier_4_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_1_plus_to_tier_5_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_2_to_tier_3_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_2_to_tier_4_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_2_to_tier_5_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_3_to_tier_4_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_3_to_tier_5_conversion' })
+	event.remove({ output: 'sophisticatedstorage:stack_upgrade_tier_4_to_tier_5_conversion' })
 	
 	event.remove({ output: 'sophisticatedbackpacks:diamond_backpack' })
 	event.remove({ output: 'sophisticatedbackpacks:netherite_backpack' })
@@ -107,6 +123,16 @@ ServerEvents.recipes(event => {
 	event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_omega_tier' })
 	event.remove({ output: 'sophisticatedbackpacks:mob_catcher_upgrade' })
 	event.remove({ output: 'sophisticatedbackpacks:advanced_mob_catcher_upgrade' })
+	event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_starter_tier_to_tier_1_conversion' })
+	event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_starter_tier_to_tier_2_conversion' })
+	event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_starter_tier_to_tier_3_conversion' })
+	event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_starter_tier_to_tier_4_conversion' })
+	event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_tier_1_to_tier_2_conversion' })
+	event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_tier_1_to_tier_3_conversion' })
+	event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_tier_1_to_tier_4_conversion' })
+	event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_tier_2_to_tier_3_conversion' })
+	event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_tier_2_to_tier_4_conversion' })
+	event.remove({ output: 'sophisticatedbackpacks:stack_upgrade_tier_3_to_tier_4_conversion' })
 	
 	
 	/*

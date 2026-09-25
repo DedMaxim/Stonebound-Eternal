@@ -21,7 +21,6 @@
 			id: "42DB1F4BD90E0C95"
 			repeat_cooldown: 604800
 			rewards: [{
-				auto: "no_toast"
 				command: "/execute as @s run kit give @s kit_weekly"
 				icon: {
 					id: "createdeco:netherite_coin"
@@ -52,7 +51,6 @@
 			id: "7C9A6F2173E1F4E6"
 			repeat_cooldown: 86400
 			rewards: [{
-				auto: "no_toast"
 				command: "/execute as @s run kit give @s kit_daily"
 				icon: {
 					components: {
