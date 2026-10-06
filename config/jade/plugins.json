@@ -52,6 +52,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "jadeaddons": {
+    "equipment_requirement": "stonebound:jade_vision"
+  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -69,12 +72,17 @@
     "entity": true,
     "entity_variant": true
   },
-  "tombstone": {
-    "decorative_graves": true,
-    "player_graves": true
+  "jadeaddons.lootr": {
+    "info": true
   },
   "ftbquests": {
     "barrier": true
+  },
+  "jadeaddons.computercraft": {
+    "computer_id": true
+  },
+  "supplementaries": {
+    "hat_stand": false
   },
   "jade": {
     "coordinates.rel": false,
@@ -87,18 +95,6 @@
     "block_properties": false,
     "mod_name": true
   },
-  "balm": {
-    "jade": true
-  },
-  "jadeaddons": {
-    "equipment_requirement": "stonebound:jade_vision"
-  },
-  "jadeaddons.lootr": {
-    "info": true
-  },
-  "supplementaries": {
-    "hat_stand": false
-  },
   "waystones": {
     "waystone": true
   },
@@ -110,10 +106,7 @@
     "milk_jar": false,
     "toaster": false
   },
-  "storagedrawers": {
-    "display.stacklimit": false,
-    "main": false,
-    "display.content": false,
-    "display.status": false
+  "balm": {
+    "jade": true
   }
 }
